@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Julia Smith Resume</title>
+
+
+    
+
+
+    <style>
+
+            .title
+            {
+                color: purple;
+                border: 2px solid rgb(115, 1, 172);
+                font-size: 2.5 rem;
+                text-decoration: underline;
+                font-family: "Inter", "Segoe UI", Arial, sans-serif;
+
+            }
+
+
+body 
+
+{
+    background-color: #D0F0C0;
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+                    font-family: "Inter", "Segoe UI", Arial, sans-serif;
+
+}
+
+.resume
+
+{
+    background: white;
+    width: 800px;      
+    padding: 40px;
+}
+.name 
+
+{
+    font-size: 3rem;
+                    font-family: "Inter", "Segoe UI", Arial, sans-serif;
+
+    font-weight: 600;
+}
+
+.sectionTitle
+
+{
+    font-size: 2.5 rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: "Inter", "Segoe UI", Arial, sans-serif;
+
+}
+
+.jobTitle 
+
+{
+    font-size: 2rem;
+    font-weight: 600;
+                    font-family: "Inter", "Segoe UI", Arial, sans-serif;
+
+}
+
+.date 
+
+{
+    font-family: "Inter", "Segoe UI", Arial, sans-serif;
+
+    font-size: 1.3rem;
+    font-style: italic;
+}
+
+           
+.details
+
+{
+    font-size: 1.3rem;
+    line-height: 1.5;
+    margin-left: 10px;     
+}
+      
+ .section
+ 
+ {
+  display: none;
+}
+
+/*  education  selected */
+#sectionSelect:has(option[value="education"]:checked) ~ .sections .education 
+{
+  display: block;
+}
+
+/*  experience  selected */
+#sectionSelect:has(option[value="experience"]:checked) ~ .sections .experience
+ {
+  display: block;
+}
+
+/*  skills  selected */
+#sectionSelect:has(option[value="skills"]:checked) ~ .sections .skills 
+{
+  display: block;
+}           
+</style>
+
+  </head>
+
+  <body>
+    
+<div class="resume">
+    <h1 class="name"><center><em>JULIA SMITH</center></em></h1>
+
+    <address>
+    <h2 class = "jobTitle">Contact Information: smithj36@rpi.edu       774-757-7921</h2>
+    <h2 class = "jobTitle">LinkedIn: <a href="https://www.linkedin.com/in/smith-julia/">Linkedin</a></h2>
+    </address>
+
+
+<h2 class = "sectionTitle">Objective</h2>
+<h2 class = "details">
+I am an undergraduate Computer Science student who is interested in 
+software engineering, artificial intelligence, and information security.
+ I'm seeking a summer internship where 
+ I can learn from 
+ experienced professionals and apply my skills.
+
+    </h2>
+
+
+
+
+
+
+
+
+<select id="sectionSelect">
+  <option value="">-- Select a section --</option>
+  <option value="education">Education</option>
+  <option value="experience">Experience</option>
+  <option value="skills">Skills</option>
+</select>
+
+<div class="sections">
+  <div class="section education">
+    <h3 class="sectionTitle">Education</h3>
+     
+        <p class="jobTitle">
+  Rensselaer Polytechnic Institute — Computer Science & Information Technology and Web Sciences  
+  <span class="date">(2025–2029)</span>
+</p>
+  </div>
+
+  <div class="section experience">
+    <h3 class="sectionTitle">Experience</h3>
+    <p><h3 class = "jobTitle">
+       <em>Intern Team Leader ~ Ellington Cyber Academy<small><i>   (Oct 2024 — Dec 2024)</i></small></em> 
+    </h3>
+
+    <h2 class = "details">
+        <ul>
+            <li>Led my team to develop a comprehensive final project that integrated business strategies and cybersecurity techniques through data collection and analysis.</li>
+            <li>Assisted team in executing daily operations and achieving project milestones.</li>
+            <li>Coordinated schedules and tasks to enhance team efficiency and communication. </li>
+
+
+        </ul>
+    </h2>
+
+    <br>
+    <h3>
+       <h3 class="jobTitle"><em>Activities Attendant ~ Camp Coldbrook <small><i>(Jul 2023 — Aug 2025)</i></small></em></h3> 
+    </h3>
+    <h2 class = "details">
+        <ul>
+            <li>Directed and developed engaging recreational programs to enhance participant satisfaction and community involvement while managing scheduling and logistics. </li>
+            <li>Evaluated program effectiveness through participant feedback and made adjustments as needed for improvement.</li>
+            <li>Assisted in office operations, handled transactions, and balanced register.</li>
+
+            <li>Resolved customer complaints promptly to ensure satisfaction and loyalty. </li>
+
+        </ul>
+    </h2>
+
+
+
+<br>
+
+    <h3 class="jobTitle"><em>Assistant Teacher ~ Kindercare Champions (<small><i>Jan 2025 — May 2025</i></small>)</em></h3>
+    <h2 class = "details">
+        <ul>
+            <li>Curated engaging and educational after school activities for students.</li>
+            <li>Monitored student behavior, ensuring adherence to safety protocols and guidelines.</li>
+            <li>Collaborated with teachers to support individualized student needs.</li>
+            <li>Organized and maintained resources and supplies for daily activities.   </li>
+            <li>Implemented effective classroom management and fostered a positive environment. </li>
+
+        </ul>
+    </h2>
+</div></p>
+  
+
+  <div class="section skills">
+    <h3 class="sectionTitle">Skills</h3>
+    <h2 class = "details">
+    <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>C++</li>
+        <li>JavaScript</li>
+        <li>HTML</li>
+        <li>R</li>
+    </ul>
+    </h2>
+  </div>
+  <br>
+  <br>
+  
+
+<footer>
+<h2 class = "sectionTitle">WEBSITE NAVIGATION</h3>
+<ul>
+<li><h3 class = "details"><a href="resume.html">Homepage</a></h2></li>
+<li><h3 class = "details"><a href="navPage.html">Sections</a></h2></li>
+
+
+</ul>
+
+
+
+
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+</body>
+</html>

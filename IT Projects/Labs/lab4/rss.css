@@ -1,0 +1,33 @@
+/* channel title  */
+channel > title {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(139, 0, 53);
+}
+
+/* items */
+item {
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+/* titles of the items */
+item > title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #800006;
+}
+
+/* href links  */
+item > link {
+    font-size: 14px;
+    color: #66004d;
+}
+
+/* descriptions  */
+item > description {
+    font-size: 14px;
+    color: #333333;
+}

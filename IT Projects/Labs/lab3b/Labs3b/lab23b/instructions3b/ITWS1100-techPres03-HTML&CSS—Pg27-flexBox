@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <style>
+      .container {
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         height: 200px;
+         border: 1px solid black;
+      }
+
+      .item {
+         width: 100px;
+         height: 100px;
+         background-color: red;
+         margin: 10px;
+      }
+   </style>
+</head>
+
+<body>
+   <div class="container">
+      <div class="item">
+         <p>Category</p>
+      </div>
+      <div class="item">
+         <p>Details</p>
+      </div>
+      <div class="item">
+         <p>Dates</p>
+      </div>
+   </div>
+</body>
+
+</html>

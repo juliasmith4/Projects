@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <title>Lab 5 Julia Smith</title>
+   <meta charset="UTF-8" />
+   <link href="lab5.css" rel="stylesheet" type="text/css" />
+   <script type="text/javascript" src="lab5.js"></script>
+   <link rel="stylesheet" href="mystyle.css">
+
+</head>
+
+<body>
+   <div id="bodyBlock">
+      <h1>Intro to IT - Lab 5 Julia Smith</h1>
+      <p>Julia Smith</p>
+      <form id="addForm" name="addForm" action="#" method="post" onsubmit="return validateForm();">
+         
+         <fieldset>
+            <legend>Contact Information</legend>
+            <div class="formData">
+
+<label class="field" for="firstName">First Name:</label>
+               <div class="value"><input type="text" size="60" value="" name="firstName" id="firstName" /></div>
+
+               <label class="field" for = "lastName">Last Name:</label>
+               <div class="value"><input type="text" size="60" value="" name="lastName" id="lastName" /></div>
+
+               <label class="field" for = "title">Title:</label>
+               <div class="value"><input type="text" size="60" value="" name="title" id="title" /></div>
+
+               <label class="field" for = "org">Organization:</label>
+               <div class="value"><input type="text" size="60" value="" name="org" id="org" /></div>
+
+               <label class="field" for = "nickname">Nickname:</label>
+               <div class="value"><input type="text" size="60" value="" name="pseudonym" id="pseudonym" /></div>
+
+               <label class="field" for = "comments">Comments:</label>
+               <textarea rows="4" cols="40" name="comments" id="comments"
+          onclick="clearComments()"
+          onblur="restoreComments()">Please enter your comments</textarea>
+
+               <input type="submit" value="save" id="save" name="save" />
+            </div>
+         </fieldset>
+      </form>
+      <!-- button showing nickname -->
+<div class="formData">
+  <button type="button" onclick="showNickname()"> Nickname Alert</button>
+</div>
+   </div>
+   <h3 class = "details"><a href="../mainLab.html">Labs</a></h3>
+</body>
+
+</html>

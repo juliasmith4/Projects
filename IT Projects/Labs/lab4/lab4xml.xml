@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="rss.css"?>
+
+<rss version="2.0">
+  <channel>
+
+    <title>Julia Smith's ITWS Page</title>
+
+
+    <link>https://smithj36rpi.eastus.cloudapp.azure.com/iit</link>
+
+
+    <description>
+      This is Julia Smith's ITWS homepage, featuring links to labs, projects,
+      my objectives, and my resume. I will be updating this page throughout the semester.
+    </description>
+
+
+    <language>en-us</language>
+
+    <item>
+
+      <title>Labs Homepage</title>
+      <link>http://smithj36rpi.eastus.cloudapp.azure.com/iit/Labs/mainLab.html</link>
+
+      <description>
+        This is the homepage for the labs. This is where you can navigate to each of the labs.
+      </description>
+      <pubDate>Thu, 19 Feb 2026 12:30:00 EST</pubDate>
+
+      <guid>http://smithj36rpi.eastus.cloudapp.azure.com/iit/Labs/mainLab.html</guid>
+
+
+    </item>
+
+    <item>
+      <title>Lab 1</title>
+
+      <link>http://smithj36rpi.eastus.cloudapp.azure.com/iit/Labs/lab1/lab1.html</link>
+      <description>
+        Lab 1 focused on creating the Azure, GitHub, and index.html page.
+      </description>
+      <pubDate>Thu, 19 Feb 2026 12:30:00 EST</pubDate>
+      <guid>http://smithj36rpi.eastus.cloudapp.azure.com/iit/Labs/lab1/lab1.html</guid>
+
+
+    </item>
+
+    <item>
+
+      <title>Lab 2</title>
+
+      <link>http://smithj36rpi.eastus.cloudapp.azure.com/iit/Labs/lab2/lab2.html</link>
+      <description>
+        Lab 2 focused on creating a page on our website to represent my resume in HTML.
+      </description>
+      <pubDate>Thu, 19 Feb 2026 12:30:00 EST</pubDate>
+      <guid>http://smithj36rpi.eastus.cloudapp.azure.com/iit/Labs/lab2/lab2.html</guid>
+
+
+    </item>
+
+
+    <item>
+
+
+      <title>Lab 3</title>
+      <link>http://smithj36rpi.eastus.cloudapp.azure.com/iit/Labs/lab3/lab3.html</link>
+      <description>
+
+        Lab 3 focused on creating multiple pages for my website, including a homepage
+        and a page for each of the labs. It also includes navigation between the sites.
+
+      </description>
+      <pubDate>Thu, 19 Feb 2026 12:30:00 EST</pubDate>
+
+      <guid>http://smithj36rpi.eastus.cloudapp.azure.com/iit/Labs/lab3/lab3.html</guid>
+
+
+    </item>
+
+    <item>
+      <title>Lab 3B</title>
+
+      <link>http://smithj36rpi.eastus.cloudapp.azure.com/iit/Labs/lab3b/index3b.html</link>
+      <description>
+        Lab 3B utilized AI in order to improve the look and feel of the website.
+        Using Claude AI, I was able to create a more visually appealing website.
+      </description>
+      <pubDate>Thu, 19 Feb 2026 12:30:00 EST</pubDate>
+      <guid>http://smithj36rpi.eastus.cloudapp.azure.com/iit/Labs/lab3b/index3b.html</guid>
+
+
+    </item>
+
+    <item>
+
+      <title>Resume</title>
+
+      <link>https://smithj36rpi.eastus.cloudapp.azure.com/iit/Labs/lab2/resume.html</link>
+      <description>
+        A page representing my resume in HTML. I will continue updating this page
+        as I gain more experience and skills.
+
+
+      </description>
+
+
+      <pubDate>Thu, 19 Feb 2026 12:30:00 EST</pubDate>
+
+
+      <guid>https://smithj36rpi.eastus.cloudapp.azure.com/iit/Labs/lab2/resume.html</guid>
+    </item>
+
+  </channel>
+</rss>
