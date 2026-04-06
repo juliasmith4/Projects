@@ -1,0 +1,1001 @@
+"patient_id","vital_status","days_to_death","days_to_last_followup","gender","stage_event_pathologic_stage","ethnicity","race_list","number_pack_years_smoked","days_to_birth","deceased"
+1,1,78.7638117517245,NA,"Female","II","Asian","Other",26.4,20075,TRUE
+2,0,18.7733865343034,NA,"Male","II","African American","Asian",30.4,26645,TRUE
+3,1,NA,342.303998378997,"Female","II","Hispanic","Hispanic",11.2,15330,FALSE
+4,0,NA,119.552284665406,"Male","I","Other","Black",36.6,22630,FALSE
+5,0,NA,305.079732073431,"Male","I","Caucasian","White",4.8,17520,FALSE
+6,1,NA,454.099002082772,"Female","III","Caucasian","Hispanic",8.7,28835,FALSE
+7,1,NA,751.009984742816,"Female","II","Asian","Black",31,13505,FALSE
+8,0,NA,NA,"Female","II","Hispanic","Other",17.5,17155,FALSE
+9,1,NA,NA,"Male","III","African American","White",2.9,25185,TRUE
+10,1,NA,38.8527238184772,"Female","II","Hispanic","Hispanic",26.4,18615,FALSE
+11,0,NA,91.7239798232913,"Male","II","Hispanic","Hispanic",6.3,13505,FALSE
+12,1,54.7372078988701,NA,"Male","II","Hispanic","White",31.8,20440,TRUE
+13,0,NA,NA,"Female","IV","Caucasian","White",25.3,25185,FALSE
+14,1,NA,NA,"Female","IV","African American","Hispanic",14.8,25915,FALSE
+15,1,NA,NA,"Male","IV","Caucasian","White",1.2,21170,FALSE
+16,0,NA,NA,"Female","IV","Asian","White",29.7,12410,TRUE
+17,1,NA,NA,"Male","IV","Other","Asian",28.9,20075,FALSE
+18,1,127.218312393398,NA,"Female","III","Caucasian","White",11.7,17885,TRUE
+19,1,NA,NA,"Male","I","Asian","Other",24.5,29200,TRUE
+20,0,NA,NA,"Male","I","Caucasian","Asian",14.7,12775,FALSE
+21,0,NA,NA,"Female","IV","Asian","Asian",30.9,21900,TRUE
+22,0,NA,431.406369407601,"Male","II","African American","Asian",33.8,14965,FALSE
+23,0,NA,NA,"Male","III","African American","Black",33.7,24090,TRUE
+24,0,142.859945624116,NA,"Male","III","Hispanic","Other",1.2,11315,TRUE
+25,0,24.345196550712,NA,"Female","II","Caucasian","White",3.9,20440,TRUE
+26,0,NA,NA,"Female","I","Hispanic","Asian",23.5,16060,FALSE
+27,1,NA,NA,"Male","III","African American","Asian",17.7,13140,FALSE
+28,1,NA,NA,"Female","I","Other","Black",32.9,15695,FALSE
+29,1,100.349003590759,NA,"Female","IV","Hispanic","Asian",1.2,16060,TRUE
+30,1,43.917456548661,NA,"Female","II","Caucasian","White",14.6,16060,TRUE
+31,0,NA,NA,"Female","IV","Other","Hispanic",34.8,11680,TRUE
+32,0,NA,NA,"Female","I","Hispanic","Other",29.4,28470,TRUE
+33,0,125.832754555614,NA,"Female","I","Other","White",37.5,27740,TRUE
+34,0,483.673473049827,NA,"Male","I","Asian","White",9.6,11315,TRUE
+35,1,NA,NA,"Male","I","Other","White",36.4,11315,TRUE
+36,1,NA,NA,"Female","IV","Asian","White",22.7,24820,FALSE
+37,0,37.3891028525435,NA,"Male","I","Asian","Hispanic",19.6,21170,TRUE
+38,1,NA,NA,"Female","IV","Asian","Hispanic",20.2,23360,TRUE
+39,1,NA,NA,"Female","III","Asian","Asian",17.2,27740,TRUE
+40,1,158.610526820222,NA,"Male","III","Other","Asian",19.5,21900,TRUE
+41,1,177.06386706883,NA,"Female","II","African American","Black",15.9,24820,TRUE
+42,1,NA,171.044290429893,"Male","IV","Hispanic","Black",4,19345,FALSE
+43,1,NA,NA,"Female","III","Caucasian","Hispanic",33.6,20440,FALSE
+44,1,NA,NA,"Male","III","Other","Other",17.4,28470,FALSE
+45,1,42.6300377584994,NA,"Male","IV","Caucasian","Hispanic",10.7,22995,TRUE
+46,1,NA,NA,"Male","III","Caucasian","White",8.3,16790,FALSE
+47,1,NA,NA,"Male","IV","African American","White",7.9,21170,TRUE
+48,1,NA,NA,"Female","II","Hispanic","Asian",14.4,24455,FALSE
+49,1,44.3717118540827,NA,"Female","III","Asian","Other",26.7,14235,TRUE
+50,0,NA,84.5280936919153,"Female","I","Other","Asian",33.9,21900,FALSE
+51,1,NA,NA,"Female","I","Caucasian","Other",7.8,23360,FALSE
+52,1,NA,NA,"Female","IV","Hispanic","Other",11.4,18980,FALSE
+53,0,NA,29.9685815349221,"Male","II","African American","White",17.3,27010,FALSE
+54,1,NA,NA,"Female","III","Other","Black",19.5,25185,FALSE
+55,1,NA,NA,"Female","I","Caucasian","White",30.3,25915,FALSE
+56,1,NA,NA,"Female","III","Other","Other",21.6,15695,FALSE
+57,1,NA,NA,"Male","IV","Asian","White",38.6,17885,TRUE
+58,0,NA,NA,"Female","I","Hispanic","Black",17,19710,FALSE
+59,0,NA,NA,"Female","II","Hispanic","Black",6.8,10950,FALSE
+60,1,NA,NA,"Female","III","African American","Asian",31.6,10950,TRUE
+61,0,NA,NA,"Female","IV","Asian","Black",7.4,19710,TRUE
+62,1,NA,NA,"Male","I","Caucasian","Other",19.3,26280,FALSE
+63,1,NA,NA,"Female","III","Other","Asian",10.8,26645,FALSE
+64,1,60.1835697423667,NA,"Male","I","Other","Black",22.5,27375,TRUE
+65,0,NA,NA,"Male","II","Caucasian","Hispanic",38.9,20075,FALSE
+66,1,190.216118278318,NA,"Female","I","Caucasian","Other",7.5,12775,TRUE
+67,0,NA,NA,"Female","IV","Other","Asian",29.1,20440,TRUE
+68,0,NA,61.4822984673083,"Male","III","Asian","Asian",14,12410,FALSE
+69,0,NA,167.157219714465,"Female","I","Other","Asian",26.4,17520,FALSE
+70,1,NA,NA,"Female","III","Asian","White",10.4,13140,TRUE
+71,0,NA,NA,"Female","II","African American","Black",8,25915,FALSE
+72,0,NA,NA,"Female","III","Other","Asian",27.3,23725,FALSE
+73,0,156.962147397902,NA,"Male","I","Caucasian","Asian",3.6,20440,TRUE
+74,1,NA,42.5475103780627,"Female","IV","African American","Asian",35,21900,FALSE
+75,1,NA,NA,"Female","I","Caucasian","Asian",28.4,27010,TRUE
+76,1,NA,NA,"Male","III","Hispanic","Hispanic",12.9,12775,FALSE
+77,1,NA,NA,"Female","I","Hispanic","Asian",38.9,25185,FALSE
+78,0,94.7218762668681,NA,"Male","I","Caucasian","Black",0.5,19345,TRUE
+79,1,NA,6.15751430278296,"Female","III","Caucasian","Black",11,22630,FALSE
+80,1,NA,NA,"Female","IV","Other","White",8,27740,FALSE
+81,1,NA,NA,"Female","I","African American","Black",11,27375,FALSE
+82,0,NA,87.4267322942615,"Female","I","African American","Other",7,12045,FALSE
+83,1,NA,NA,"Male","III","Caucasian","Asian",35.2,27375,FALSE
+84,0,NA,NA,"Female","IV","Other","Asian",35.2,16060,FALSE
+85,1,NA,NA,"Male","II","African American","Asian",38.7,21535,TRUE
+86,1,50.4888426978141,NA,"Male","IV","Other","Asian",22.3,24090,TRUE
+87,0,NA,NA,"Male","IV","Asian","Black",0.5,28835,TRUE
+88,0,NA,NA,"Female","III","African American","Hispanic",37.6,11680,FALSE
+89,0,NA,NA,"Female","II","African American","White",20.1,16425,TRUE
+90,1,NA,NA,"Male","I","Other","Hispanic",26.2,21535,FALSE
+91,1,NA,5.04970857873559,"Male","IV","Caucasian","Black",20.6,25185,FALSE
+92,0,NA,NA,"Male","IV","Caucasian","White",2.4,27740,TRUE
+93,1,NA,NA,"Female","IV","Asian","Hispanic",29.3,14600,FALSE
+94,0,NA,85.2668421368025,"Female","IV","Caucasian","Other",27.6,29200,FALSE
+95,1,25.1336630899459,NA,"Female","II","Caucasian","White",28.4,17520,TRUE
+96,1,NA,NA,"Female","IV","Other","Asian",9.1,28470,FALSE
+97,0,NA,148.107550284805,"Female","II","Hispanic","Other",14.3,27010,FALSE
+98,1,NA,NA,"Female","I","Caucasian","Hispanic",20,28835,FALSE
+99,1,NA,NA,"Male","I","Asian","Hispanic",38.1,25185,TRUE
+100,1,25.783601903796,NA,"Female","I","African American","Black",18.4,15330,TRUE
+101,1,213.237467954371,NA,"Female","IV","Hispanic","Other",2.8,12045,TRUE
+102,1,NA,NA,"Female","III","Caucasian","Hispanic",17.7,17520,FALSE
+103,1,NA,NA,"Female","I","Caucasian","Asian",18.3,12045,FALSE
+104,0,NA,NA,"Male","III","Asian","Hispanic",14.8,16060,TRUE
+105,1,NA,NA,"Female","I","Asian","Hispanic",16.7,17885,TRUE
+106,0,NA,113.443398661911,"Male","IV","African American","White",38.9,11680,FALSE
+107,0,NA,409.188877401834,"Female","II","Hispanic","Other",0.7,12045,FALSE
+108,0,NA,NA,"Male","I","Asian","Black",37.4,28835,FALSE
+109,1,NA,107.109707314521,"Male","III","Other","Asian",40,24455,FALSE
+110,1,NA,61.2197565846145,"Female","III","Other","Other",7.5,22630,FALSE
+111,0,15.0178750735715,NA,"Male","IV","Asian","Black",34.9,16790,TRUE
+112,1,NA,NA,"Male","IV","Caucasian","Black",23.1,18250,FALSE
+113,1,NA,NA,"Female","II","Asian","Other",34,27375,FALSE
+114,0,258.346382329676,NA,"Male","II","Hispanic","White",35,13870,TRUE
+115,0,NA,NA,"Female","II","Caucasian","Hispanic",21.1,17155,FALSE
+116,1,NA,NA,"Male","II","Other","White",34.6,14965,FALSE
+117,1,NA,36.4053178783485,"Male","III","Caucasian","Asian",28.4,17520,FALSE
+118,0,NA,NA,"Female","IV","Hispanic","Asian",7.4,16060,FALSE
+119,1,9.3572372903496,NA,"Female","III","African American","Hispanic",9.1,28470,TRUE
+120,1,NA,NA,"Female","IV","Hispanic","White",36.8,24455,FALSE
+121,0,NA,615.892846848736,"Female","III","Other","White",3.9,11680,FALSE
+122,1,NA,NA,"Female","I","Hispanic","Other",9.6,26280,TRUE
+123,1,18.854594277218,NA,"Female","IV","Asian","White",36.3,16790,TRUE
+124,1,NA,250.557361348512,"Male","II","Hispanic","Black",22,21170,FALSE
+125,1,413.599008859551,NA,"Female","IV","Caucasian","White",30.3,15330,TRUE
+126,0,NA,62.3022182844579,"Female","II","African American","Hispanic",22.7,20805,FALSE
+127,1,NA,149.820042643877,"Male","III","Caucasian","Black",22.2,23360,FALSE
+128,1,NA,NA,"Female","III","Hispanic","White",1.1,28470,FALSE
+129,1,33.9012393251917,NA,"Male","II","African American","Other",21.8,25915,TRUE
+130,0,NA,NA,"Male","IV","Hispanic","Other",17.9,27375,FALSE
+131,0,73.8029243478472,NA,"Male","III","African American","Black",15.5,27010,TRUE
+132,0,NA,NA,"Female","II","African American","Asian",0.7,16060,FALSE
+133,0,NA,92.6776652224362,"Male","II","Asian","Hispanic",31.2,22995,FALSE
+134,0,NA,78.0034273862839,"Female","III","Caucasian","Asian",1,25185,FALSE
+135,1,5.47386490797971,NA,"Male","II","Other","Asian",22.2,22630,TRUE
+136,0,NA,NA,"Male","I","Other","Black",25,20075,TRUE
+137,0,60.4365415871143,NA,"Female","I","African American","Black",15.9,12410,TRUE
+138,0,NA,NA,"Male","IV","Caucasian","Black",25.3,14235,TRUE
+139,0,NA,NA,"Female","I","Asian","Other",28.8,25915,TRUE
+140,1,NA,NA,"Male","I","Hispanic","Hispanic",33.4,13505,FALSE
+141,1,306.477314216976,NA,"Female","III","Caucasian","Asian",13.2,15330,TRUE
+142,1,NA,NA,"Female","III","Caucasian","Black",25.9,13505,FALSE
+143,1,NA,NA,"Female","IV","Caucasian","Asian",23.7,23360,FALSE
+144,1,NA,NA,"Female","II","African American","Black",10,13140,FALSE
+145,0,NA,NA,"Female","I","Hispanic","Hispanic",30.1,27010,TRUE
+146,1,NA,NA,"Female","III","Asian","Black",8.5,17155,FALSE
+147,1,NA,298.005948198919,"Female","IV","Other","Asian",23.1,15695,FALSE
+148,1,NA,151.626533902277,"Male","III","Hispanic","Hispanic",31.6,24090,FALSE
+149,1,NA,231.691760561409,"Female","IV","Caucasian","Other",2.4,13505,FALSE
+150,0,98.0123545932484,NA,"Male","IV","Asian","Asian",37.1,17155,TRUE
+151,0,24.9811073765159,NA,"Male","III","Caucasian","Asian",18.9,27740,TRUE
+152,1,NA,402.440792305355,"Male","III","Other","White",31.5,28105,FALSE
+153,1,NA,NA,"Female","III","Hispanic","Asian",19.7,11315,FALSE
+154,1,NA,NA,"Male","IV","Hispanic","Black",23.4,20805,FALSE
+155,1,191.203400484266,NA,"Male","II","Caucasian","Black",13.3,18980,TRUE
+156,1,45.4172941390425,NA,"Female","I","Asian","Hispanic",18.9,17155,TRUE
+157,1,NA,NA,"Male","I","African American","Black",25,20440,FALSE
+158,1,NA,585.416938330898,"Female","III","African American","Black",37.9,20440,FALSE
+159,1,NA,144.958364806778,"Male","II","Asian","Black",30.4,12410,FALSE
+160,1,NA,NA,"Female","IV","Caucasian","Black",0.3,25185,FALSE
+161,1,153.651918648722,NA,"Male","II","Caucasian","White",34.5,22265,TRUE
+162,1,NA,149.736688341387,"Female","II","African American","Asian",33.6,14965,FALSE
+163,0,17.2403978254974,NA,"Female","II","African American","Other",15.1,27375,TRUE
+164,1,NA,NA,"Female","IV","Other","Hispanic",17.3,13870,TRUE
+165,1,NA,NA,"Female","II","Other","Other",14.5,17155,TRUE
+166,1,NA,6.77446682505921,"Female","II","Asian","White",5.2,27740,FALSE
+167,0,NA,NA,"Male","II","Asian","Black",6.4,21535,FALSE
+168,1,NA,106.883961614221,"Male","II","Hispanic","Asian",31.9,13870,FALSE
+169,1,NA,NA,"Female","IV","Hispanic","Other",33.2,27375,TRUE
+170,1,413.042137564576,NA,"Male","II","Asian","Black",6.5,28470,TRUE
+171,0,45.0455904006958,NA,"Male","III","Hispanic","Hispanic",24.5,14235,TRUE
+172,1,NA,NA,"Male","II","Other","White",25.4,27375,FALSE
+173,0,10.9126359224319,NA,"Female","IV","Asian","White",8,16060,TRUE
+174,0,NA,133.534300606698,"Female","III","African American","Asian",22.9,27010,FALSE
+175,0,NA,724.84811995608,"Female","IV","Other","Hispanic",31.9,12410,FALSE
+176,0,93.7260803724539,NA,"Female","III","Other","Asian",22.2,28470,TRUE
+177,1,126.193311899425,NA,"Male","IV","Caucasian","Black",8.9,18250,TRUE
+178,1,NA,406.762525545067,"Male","I","Hispanic","Asian",1.3,18980,FALSE
+179,0,NA,NA,"Male","II","African American","Hispanic",27.6,18250,FALSE
+180,1,NA,NA,"Male","I","Asian","White",22.6,15330,FALSE
+181,0,NA,NA,"Female","IV","Asian","White",37.3,25915,FALSE
+182,1,NA,NA,"Male","III","Asian","Hispanic",12.4,19710,FALSE
+183,0,NA,213.881702153924,"Female","II","Caucasian","White",18.3,26280,FALSE
+184,1,NA,NA,"Male","I","Hispanic","Asian",9.6,27375,FALSE
+185,1,NA,NA,"Male","I","Other","Black",32.6,18250,FALSE
+186,1,63.1535895168781,NA,"Male","III","African American","Black",4.7,25915,TRUE
+187,1,NA,NA,"Female","I","African American","Black",12.1,27010,TRUE
+188,1,201.061476013603,NA,"Male","IV","Asian","White",5.1,16425,TRUE
+189,0,NA,NA,"Male","II","Other","Other",32.6,17155,FALSE
+190,0,54.1194093879312,NA,"Female","II","African American","Other",8,11680,TRUE
+191,1,46.6897109989077,NA,"Male","III","Caucasian","Black",23.8,21535,TRUE
+192,1,67.7811996545643,NA,"Female","IV","Caucasian","Asian",35.8,23360,TRUE
+193,0,13.8097684830427,NA,"Male","IV","African American","Black",7.8,25915,TRUE
+194,0,NA,93.8771642744541,"Female","IV","African American","Asian",30.3,14235,FALSE
+195,0,NA,NA,"Male","I","Caucasian","Asian",16.8,13140,FALSE
+196,1,11.0227613709867,NA,"Male","II","Caucasian","Asian",24.3,25550,TRUE
+197,1,225.407190049503,NA,"Male","II","Hispanic","Asian",34.9,28835,TRUE
+198,0,NA,NA,"Male","I","Caucasian","Hispanic",38.3,21535,FALSE
+199,1,NA,NA,"Female","I","Other","Other",8.8,22630,TRUE
+200,1,NA,NA,"Female","I","Caucasian","White",37.9,29200,FALSE
+201,1,NA,NA,"Female","I","Caucasian","Other",16.5,21170,FALSE
+202,0,115.706773377479,NA,"Male","II","Caucasian","White",32.7,13140,TRUE
+203,0,NA,NA,"Male","I","Caucasian","White",8.8,22995,TRUE
+204,1,NA,NA,"Female","IV","African American","Black",4.7,19710,FALSE
+205,1,NA,NA,"Female","II","Asian","White",25.8,20075,FALSE
+206,0,NA,NA,"Female","III","Hispanic","Other",37,16790,FALSE
+207,1,NA,NA,"Female","II","Hispanic","Black",27.3,16425,FALSE
+208,1,NA,NA,"Female","IV","Hispanic","Other",16.8,16790,FALSE
+209,1,NA,NA,"Male","IV","Caucasian","Black",21,17155,FALSE
+210,1,NA,NA,"Male","III","Asian","Asian",16.2,19710,FALSE
+211,1,NA,NA,"Male","II","African American","Other",14.4,26645,FALSE
+212,1,NA,NA,"Male","II","Caucasian","Asian",23.8,20075,TRUE
+213,1,NA,230.764659113231,"Male","I","Hispanic","Hispanic",1.2,16790,FALSE
+214,0,NA,4.27353883138555,"Male","II","Hispanic","Asian",21,18980,FALSE
+215,1,NA,NA,"Female","II","African American","Hispanic",16.2,21170,FALSE
+216,0,NA,NA,"Male","II","Caucasian","White",12.4,19345,TRUE
+217,1,NA,NA,"Female","I","Other","Hispanic",35,26280,FALSE
+218,1,NA,NA,"Male","II","Hispanic","White",30.1,12045,TRUE
+219,0,NA,NA,"Female","II","Other","Other",9.3,28105,FALSE
+220,0,NA,NA,"Male","II","Other","White",12.6,13505,FALSE
+221,1,6.95180939510465,NA,"Male","III","Caucasian","Other",39,22630,TRUE
+222,0,NA,NA,"Female","I","Other","Other",11.4,18980,FALSE
+223,0,NA,NA,"Female","III","Hispanic","Other",29.4,20075,FALSE
+224,0,NA,94.4602924399078,"Male","I","Caucasian","Asian",16,14600,FALSE
+225,1,NA,19.6567854432553,"Female","I","Hispanic","Black",16.2,11315,FALSE
+226,1,7.27198617532849,NA,"Male","I","African American","Hispanic",8.9,14600,TRUE
+227,1,19.4903733208776,NA,"Male","III","Hispanic","Other",37.5,29200,TRUE
+228,1,NA,NA,"Female","IV","Caucasian","White",22.4,21900,FALSE
+229,0,509.151558734872,NA,"Male","I","Hispanic","Hispanic",36.1,13505,TRUE
+230,0,NA,NA,"Male","III","African American","White",18.5,12410,TRUE
+231,0,NA,NA,"Male","II","Asian","Black",15.3,16425,FALSE
+232,1,NA,NA,"Male","III","Asian","Asian",15.3,24090,FALSE
+233,1,NA,NA,"Male","IV","Asian","White",29.2,14235,FALSE
+234,1,NA,NA,"Female","IV","Asian","Asian",27.1,13140,FALSE
+235,1,NA,NA,"Male","III","Asian","Asian",34.9,25915,TRUE
+236,1,NA,NA,"Female","IV","Caucasian","Other",1.4,11680,FALSE
+237,1,166.166505581679,NA,"Female","IV","Other","Hispanic",7.7,14965,TRUE
+238,0,NA,65.8922645099696,"Male","III","Caucasian","White",24,16425,FALSE
+239,1,157.651817790213,NA,"Female","I","Other","Black",24.9,11680,TRUE
+240,0,NA,92.1467522159219,"Female","III","Caucasian","Black",32.7,28470,FALSE
+241,1,NA,NA,"Female","I","Other","Hispanic",19.1,26280,FALSE
+242,0,NA,NA,"Male","III","Asian","Asian",32.4,27010,TRUE
+243,1,NA,169.699357461922,"Female","II","Asian","Hispanic",7.3,17885,FALSE
+244,0,NA,NA,"Male","IV","Hispanic","Hispanic",39.5,12410,TRUE
+245,1,NA,10.2903357706964,"Female","III","Hispanic","Other",39,16060,FALSE
+246,0,NA,NA,"Female","II","Asian","Asian",10.4,11315,TRUE
+247,1,118.907563570411,NA,"Male","I","African American","Asian",21.7,25550,TRUE
+248,0,1.305345791179,NA,"Male","I","Hispanic","White",6.5,22630,TRUE
+249,0,NA,290.708418075688,"Female","III","Caucasian","Hispanic",13.9,24455,FALSE
+250,0,NA,NA,"Male","III","Caucasian","Other",25.1,25185,FALSE
+251,1,NA,NA,"Male","I","Caucasian","Other",30.3,11315,FALSE
+252,1,NA,NA,"Male","I","Asian","White",1.8,25550,FALSE
+253,1,NA,NA,"Male","II","African American","White",35.7,23725,FALSE
+254,1,NA,324.513700553823,"Male","III","Caucasian","Asian",35.5,26280,FALSE
+255,1,NA,NA,"Female","III","Caucasian","Asian",31.8,27375,FALSE
+256,0,142.907975388785,NA,"Female","IV","African American","White",5.9,16790,TRUE
+257,1,86.2361797480223,NA,"Male","IV","Asian","White",34.9,17155,TRUE
+258,1,NA,NA,"Male","I","Other","Hispanic",26.8,22995,TRUE
+259,1,NA,NA,"Male","II","Asian","White",0.1,22995,FALSE
+260,0,NA,299.674687910363,"Male","II","Hispanic","White",14.7,24455,FALSE
+261,0,184.981989852133,NA,"Female","I","Other","Other",21.7,19710,TRUE
+262,0,NA,NA,"Female","II","African American","White",0.3,21170,FALSE
+263,0,NA,33.6226981480968,"Female","I","Asian","Other",16.3,27740,FALSE
+264,0,NA,186.62042505199,"Female","IV","African American","Black",24.1,24090,FALSE
+265,1,NA,294.310727400269,"Female","I","Hispanic","Hispanic",9.2,25550,FALSE
+266,1,NA,NA,"Female","III","Caucasian","White",5.4,27010,FALSE
+267,1,NA,117.514374479651,"Female","I","Asian","Hispanic",33.3,13870,FALSE
+268,1,NA,135.170938074589,"Female","I","Asian","Hispanic",32.9,16060,FALSE
+269,1,133.44974588206,NA,"Female","III","African American","White",13.2,12410,TRUE
+270,1,90.133682789669,NA,"Female","II","African American","White",0.3,13505,TRUE
+271,0,NA,NA,"Female","III","African American","Other",8.9,19345,FALSE
+272,1,60.102142393589,NA,"Female","IV","Caucasian","Other",17.9,23360,TRUE
+273,1,NA,70.6821418367326,"Male","I","Asian","Other",21,11315,FALSE
+274,1,NA,NA,"Female","II","Other","Other",5.8,29200,TRUE
+275,0,NA,254.564240938964,"Male","I","Caucasian","Black",22,17885,FALSE
+276,0,NA,121.141242422163,"Female","IV","African American","White",34.8,17520,FALSE
+277,0,NA,NA,"Female","I","Caucasian","Asian",38.1,14235,FALSE
+278,1,NA,NA,"Male","III","Other","White",9.3,28470,FALSE
+279,1,311.552692932968,NA,"Male","III","Asian","Black",8.4,12775,TRUE
+280,0,73.6880429377848,NA,"Female","IV","Other","Asian",33,14600,TRUE
+281,0,NA,602.463278140793,"Female","I","Hispanic","Other",35.8,12045,FALSE
+282,1,NA,NA,"Female","I","Hispanic","White",12.8,29200,FALSE
+283,1,19.7604298125952,NA,"Male","III","African American","Hispanic",25.3,27375,TRUE
+284,1,NA,NA,"Female","I","Hispanic","Asian",22.1,26645,FALSE
+285,1,NA,NA,"Male","IV","Hispanic","Black",8.6,10950,TRUE
+286,1,NA,697.698024990869,"Male","IV","Caucasian","Black",37.1,11680,FALSE
+287,1,188.872613290388,NA,"Male","IV","African American","White",29.8,19710,TRUE
+288,1,NA,199.190933621469,"Male","III","Hispanic","Black",9.9,23725,FALSE
+289,1,NA,NA,"Female","II","Hispanic","White",17.5,10950,TRUE
+290,0,NA,NA,"Male","III","Asian","Asian",38.6,14235,FALSE
+291,1,412.773766161358,NA,"Male","IV","Other","Asian",30,19345,TRUE
+292,1,9.53964517717958,NA,"Male","IV","Caucasian","Asian",33.5,21535,TRUE
+293,1,NA,NA,"Male","I","African American","White",35.7,29200,TRUE
+294,0,212.86399605355,NA,"Male","II","Other","Other",36,22630,TRUE
+295,0,NA,75.1149221323431,"Male","II","African American","Other",34.3,14235,FALSE
+296,0,NA,235.640906161609,"Female","IV","Hispanic","Other",0.5,21170,FALSE
+297,0,NA,NA,"Male","III","Other","Black",33.3,12410,FALSE
+298,1,NA,NA,"Male","II","Other","Black",17.3,20440,TRUE
+299,1,62.7701048273593,NA,"Female","I","Other","Black",5.7,14235,TRUE
+300,0,NA,119.618500582874,"Male","II","Caucasian","Other",2.8,14600,FALSE
+301,0,NA,409.187784774189,"Female","IV","Caucasian","Other",2.3,17885,FALSE
+302,1,NA,247.654863252285,"Male","I","Other","White",31,15330,FALSE
+303,0,NA,NA,"Male","III","Other","Asian",27.7,17155,FALSE
+304,0,NA,97.7012328803539,"Female","IV","African American","Hispanic",35.6,26280,FALSE
+305,0,NA,NA,"Male","III","Other","Asian",4.1,25550,FALSE
+306,1,NA,NA,"Female","II","African American","Asian",10.7,22630,FALSE
+307,1,NA,176.932936327436,"Male","IV","African American","Other",15.6,17155,FALSE
+308,1,NA,NA,"Male","IV","Caucasian","Hispanic",12.2,29200,TRUE
+309,1,NA,NA,"Female","III","Other","White",31,25550,FALSE
+310,1,NA,NA,"Female","III","Caucasian","Other",2.1,16790,FALSE
+311,1,NA,NA,"Male","II","African American","White",38.2,20805,FALSE
+312,1,NA,NA,"Male","IV","African American","Hispanic",31.4,19345,FALSE
+313,0,NA,52.4570709003834,"Male","I","Caucasian","Other",27.3,12410,FALSE
+314,1,379.635023118413,NA,"Male","III","African American","Hispanic",37.1,10950,TRUE
+315,1,NA,NA,"Male","III","Asian","White",16.7,25185,FALSE
+316,0,NA,34.4172146171331,"Female","IV","Caucasian","White",1.8,28105,FALSE
+317,0,NA,NA,"Male","I","African American","Other",34.1,24090,TRUE
+318,1,NA,NA,"Male","I","Other","Other",1.4,12410,FALSE
+319,1,NA,NA,"Female","IV","Asian","Asian",2.7,18980,FALSE
+320,0,NA,NA,"Male","II","Caucasian","Hispanic",34.9,26280,FALSE
+321,0,419.029187537521,NA,"Female","I","Other","White",11.7,15695,TRUE
+322,1,NA,NA,"Male","II","Caucasian","White",36.5,17155,FALSE
+323,1,NA,NA,"Female","II","Other","Other",7.1,23725,FALSE
+324,0,NA,NA,"Female","IV","Caucasian","White",25.8,27010,TRUE
+325,1,69.3207138175976,NA,"Male","I","African American","Black",21.9,17885,TRUE
+326,1,NA,NA,"Female","IV","Hispanic","Asian",23.8,22995,TRUE
+327,0,NA,NA,"Male","I","Caucasian","White",11.9,24820,FALSE
+328,1,NA,NA,"Female","I","African American","Other",10.7,16425,FALSE
+329,1,54.7062112018466,NA,"Male","IV","Other","Black",6.1,28835,TRUE
+330,0,101.761649824203,NA,"Female","IV","Asian","Hispanic",25.3,11680,TRUE
+331,0,NA,NA,"Female","IV","African American","Hispanic",7,23725,FALSE
+332,1,NA,NA,"Female","IV","Other","White",13,21170,FALSE
+333,0,NA,98.8014003261924,"Male","I","Asian","Asian",13,16060,FALSE
+334,0,NA,139.296357712575,"Male","IV","Hispanic","Other",39.2,28470,FALSE
+335,1,NA,NA,"Male","I","Asian","Hispanic",17.3,22630,FALSE
+336,1,NA,NA,"Female","IV","Caucasian","White",13.1,21900,FALSE
+337,0,125.44748968956,NA,"Male","I","African American","Other",31.7,14600,TRUE
+338,0,NA,138.847941710594,"Female","III","Hispanic","White",0,21900,FALSE
+339,0,NA,183.419955885949,"Female","IV","Hispanic","Hispanic",15.3,26280,FALSE
+340,0,83.1606810870481,NA,"Female","III","Other","Other",27.7,25915,TRUE
+341,1,NA,530.054705192275,"Male","IV","Other","Other",31.3,11680,FALSE
+342,1,NA,NA,"Male","III","Caucasian","Asian",4.2,27740,FALSE
+343,1,NA,185.895009547613,"Female","II","Caucasian","Other",37.4,16790,FALSE
+344,1,NA,NA,"Male","I","Caucasian","White",31.8,28470,TRUE
+345,1,NA,NA,"Female","II","Other","Asian",17.7,21170,FALSE
+346,1,57.4769926723093,NA,"Male","I","Caucasian","Other",2.4,11315,TRUE
+347,0,112.778837974639,NA,"Male","III","Other","Asian",29,14600,TRUE
+348,1,407.232571185982,NA,"Male","II","Hispanic","Other",15.9,23725,TRUE
+349,1,NA,436.079449705829,"Male","III","Other","Asian",21.8,13140,FALSE
+350,0,364.361606854792,NA,"Male","III","African American","White",26.1,17885,TRUE
+351,1,NA,NA,"Male","II","Asian","Hispanic",27.2,16060,FALSE
+352,0,NA,NA,"Male","II","African American","White",16.9,13870,FALSE
+353,1,25.5004883278161,NA,"Female","I","Caucasian","Other",33.3,27740,TRUE
+354,1,26.1144971940666,NA,"Female","III","Hispanic","Hispanic",1,12410,TRUE
+355,0,NA,NA,"Female","III","African American","White",39.4,13870,FALSE
+356,0,93.4801856276975,NA,"Female","IV","African American","Asian",3.1,23360,TRUE
+357,0,41.0941500079949,NA,"Female","II","Hispanic","Asian",13.1,17155,TRUE
+358,1,100.44355559674,NA,"Male","II","Other","Asian",7.9,12410,TRUE
+359,1,229.047142887924,NA,"Female","IV","Hispanic","Other",34.2,29200,TRUE
+360,0,NA,NA,"Male","I","Caucasian","Hispanic",37.9,28470,FALSE
+361,1,NA,NA,"Male","II","Asian","Black",4.7,17520,FALSE
+362,1,48.2700248248875,NA,"Female","III","Asian","Black",18,21170,TRUE
+363,0,NA,NA,"Male","II","Asian","Hispanic",18.7,22630,FALSE
+364,1,NA,NA,"Female","IV","Other","Hispanic",36,20075,FALSE
+365,1,NA,NA,"Female","I","Asian","Hispanic",4.5,28835,FALSE
+366,0,8.8729139796834,NA,"Male","I","Caucasian","Asian",22.8,21170,TRUE
+367,1,107.943192529408,NA,"Female","III","African American","Hispanic",36,15695,TRUE
+368,1,137.566729508964,NA,"Male","III","Asian","Black",12.4,15330,TRUE
+369,1,NA,125.099778734148,"Male","III","Hispanic","Hispanic",13,21900,FALSE
+370,1,NA,NA,"Male","IV","Caucasian","Black",34.8,24820,FALSE
+371,1,NA,NA,"Male","IV","Other","Black",13.1,14600,FALSE
+372,1,NA,NA,"Male","I","Asian","Hispanic",5,20440,FALSE
+373,0,NA,NA,"Female","III","Other","Hispanic",14.2,20075,FALSE
+374,1,NA,NA,"Female","III","Other","Hispanic",37.2,28835,FALSE
+375,1,NA,NA,"Male","I","Hispanic","White",35,22265,FALSE
+376,0,21.8121957033873,NA,"Male","I","African American","White",32.8,24090,TRUE
+377,0,NA,NA,"Male","I","Caucasian","White",0.9,27375,FALSE
+378,1,NA,NA,"Female","IV","Other","White",25.2,22630,FALSE
+379,1,NA,140.626608385685,"Male","I","Caucasian","Asian",31.2,17155,FALSE
+380,0,NA,NA,"Male","II","African American","Black",28.7,13870,TRUE
+381,1,NA,200.223116382005,"Female","IV","African American","Black",7.4,13140,FALSE
+382,0,NA,502.481804416067,"Female","I","Asian","Other",23.2,24820,FALSE
+383,1,NA,NA,"Female","IV","Caucasian","White",16.6,10950,FALSE
+384,0,NA,43.1732121855021,"Female","I","Asian","Asian",13.1,16060,FALSE
+385,1,NA,NA,"Male","III","Asian","Hispanic",16.8,16425,FALSE
+386,0,NA,NA,"Male","II","African American","Other",14.6,24455,FALSE
+387,1,NA,NA,"Female","IV","Caucasian","Hispanic",34.8,19345,FALSE
+388,1,NA,NA,"Female","II","Asian","White",10.9,26645,TRUE
+389,1,44.4444102235138,NA,"Male","III","Other","Hispanic",15.7,27740,TRUE
+390,1,NA,9.82545459441021,"Female","I","Caucasian","White",35.7,14235,FALSE
+391,0,NA,180.943953937368,"Female","II","Asian","Hispanic",32.9,23360,FALSE
+392,1,NA,NA,"Male","IV","Other","Hispanic",29,22995,TRUE
+393,0,NA,NA,"Female","III","Caucasian","Other",17.6,17885,FALSE
+394,0,NA,NA,"Female","IV","African American","Black",18.3,29200,TRUE
+395,1,NA,NA,"Male","II","African American","Black",19.2,10950,TRUE
+396,1,NA,NA,"Female","I","Other","Hispanic",5.1,25550,FALSE
+397,1,NA,NA,"Male","II","Other","Hispanic",11.4,27010,FALSE
+398,1,NA,70.5025183968246,"Female","I","Asian","White",25,20440,FALSE
+399,1,NA,93.6519256792963,"Female","II","Asian","Asian",27.5,14965,FALSE
+400,0,NA,NA,"Male","I","African American","Asian",6.3,21900,FALSE
+401,0,22.3496817052364,NA,"Male","II","Caucasian","Black",32,28105,TRUE
+402,1,11.7625477258116,NA,"Male","I","Caucasian","Asian",7.9,20805,TRUE
+403,0,NA,NA,"Male","II","Asian","Hispanic",21.6,22995,TRUE
+404,1,NA,NA,"Male","IV","Asian","Asian",39.2,29200,FALSE
+405,1,203.819372682812,NA,"Female","II","African American","Other",16.7,28835,TRUE
+406,1,NA,NA,"Female","I","Hispanic","White",3.3,17520,FALSE
+407,0,NA,124.544397182763,"Female","III","Asian","Hispanic",6.8,18615,FALSE
+408,1,NA,NA,"Female","IV","Asian","Black",7.5,19710,FALSE
+409,1,NA,NA,"Male","IV","Hispanic","Hispanic",1.2,12775,FALSE
+410,0,NA,NA,"Female","IV","African American","Other",11.2,18980,TRUE
+411,1,NA,NA,"Female","III","Asian","Hispanic",14.6,28835,TRUE
+412,0,NA,357.908185182099,"Male","I","Caucasian","Black",11,20075,FALSE
+413,1,NA,26.8980811694413,"Female","II","African American","Other",4.8,12775,FALSE
+414,1,NA,NA,"Male","I","Caucasian","Other",5.2,17155,TRUE
+415,1,NA,NA,"Male","II","Caucasian","White",34.9,21170,FALSE
+416,1,NA,167.514706767144,"Male","IV","African American","Asian",17,24820,FALSE
+417,0,48.4173318371177,NA,"Male","IV","Asian","Hispanic",4,29200,TRUE
+418,1,NA,NA,"Female","II","Hispanic","White",6,28105,FALSE
+419,1,NA,NA,"Female","III","African American","White",35.6,20805,FALSE
+420,1,58.4256991731718,NA,"Male","IV","African American","Hispanic",36.4,27740,TRUE
+421,1,NA,NA,"Male","III","Other","Hispanic",33.7,16790,FALSE
+422,0,NA,1.76428128033876,"Female","I","African American","Hispanic",22,19345,FALSE
+423,1,42.606612155214,NA,"Female","IV","Other","Hispanic",10.6,22995,TRUE
+424,1,244.056107277486,NA,"Male","III","African American","Other",32.2,13140,TRUE
+425,0,127.906010318638,NA,"Female","III","Other","Asian",2.7,26280,TRUE
+426,0,NA,293.947734666948,"Female","I","Other","Black",3.2,18615,FALSE
+427,1,NA,25.0368106178939,"Female","II","Hispanic","Other",11.1,20805,FALSE
+428,1,NA,NA,"Male","III","Asian","Black",19.8,11680,FALSE
+429,1,NA,NA,"Female","III","Hispanic","Other",34.2,11315,TRUE
+430,0,223.629395092342,NA,"Female","III","Caucasian","Black",28.3,18980,TRUE
+431,0,NA,NA,"Male","III","African American","White",16.6,28835,FALSE
+432,1,NA,NA,"Male","I","Other","Other",21.6,19710,FALSE
+433,1,2.53223017789423,NA,"Female","IV","Hispanic","Hispanic",5.7,13505,TRUE
+434,0,NA,NA,"Female","III","Asian","Black",20.3,16425,TRUE
+435,1,NA,NA,"Female","III","Asian","White",4.5,15695,TRUE
+436,0,NA,NA,"Male","II","Asian","Black",6,12410,FALSE
+437,1,NA,98.2028611004353,"Female","IV","African American","White",35.9,20075,FALSE
+438,1,NA,NA,"Male","IV","Other","Asian",10.6,16790,FALSE
+439,1,NA,251.621619603577,"Female","I","African American","Asian",30,18615,FALSE
+440,1,NA,220.381085566225,"Male","I","Hispanic","Other",13.7,14965,FALSE
+441,1,NA,49.1168421693146,"Male","II","African American","Asian",25.4,12410,FALSE
+442,1,NA,334.452360479121,"Female","IV","Hispanic","White",8.4,18980,FALSE
+443,0,NA,NA,"Female","III","Asian","White",28.9,27375,FALSE
+444,1,NA,NA,"Female","II","Other","Black",31.1,18980,TRUE
+445,0,NA,40.9065818414092,"Male","II","Hispanic","Asian",38.4,20075,FALSE
+446,0,NA,NA,"Female","III","Other","White",38.4,26645,TRUE
+447,0,NA,NA,"Female","II","Hispanic","White",18.6,21900,FALSE
+448,1,NA,NA,"Female","II","Other","White",36.2,26645,FALSE
+449,1,NA,NA,"Female","III","African American","White",27,22630,FALSE
+450,0,NA,472.086020906396,"Female","II","Hispanic","Other",26.6,24820,FALSE
+451,1,NA,NA,"Female","I","Caucasian","Other",26,27010,FALSE
+452,1,NA,231.329747839811,"Female","I","Other","White",18.1,23725,FALSE
+453,1,57.4897726532072,NA,"Female","II","Caucasian","White",20.6,20805,TRUE
+454,1,24.565166933462,NA,"Male","IV","Other","Other",28.7,24820,TRUE
+455,1,27.7981995916988,NA,"Female","II","Other","Hispanic",16.1,19710,TRUE
+456,0,NA,NA,"Female","I","Caucasian","Asian",8.6,17885,FALSE
+457,0,NA,NA,"Female","II","Hispanic","Other",16.5,16425,TRUE
+458,0,NA,234.721234618666,"Male","III","Hispanic","Hispanic",24.2,28470,FALSE
+459,1,NA,NA,"Female","I","Asian","Other",18.7,15330,FALSE
+460,1,NA,NA,"Male","IV","African American","Black",22.6,14965,TRUE
+461,0,41.1688250023872,NA,"Female","III","Other","Other",16.1,19345,TRUE
+462,1,NA,NA,"Female","I","African American","Asian",0.4,28105,TRUE
+463,1,NA,NA,"Female","IV","Asian","Black",7.9,18250,FALSE
+464,1,NA,NA,"Male","IV","Caucasian","Hispanic",38.8,15330,TRUE
+465,1,NA,NA,"Female","IV","Hispanic","Black",28.1,25185,FALSE
+466,1,NA,NA,"Male","II","Hispanic","Hispanic",3.7,25915,FALSE
+467,1,NA,335.181135294919,"Male","III","Hispanic","Asian",27.1,20440,FALSE
+468,0,NA,NA,"Female","III","Other","Hispanic",0.2,19710,FALSE
+469,1,NA,NA,"Female","IV","Other","Asian",10.4,23360,TRUE
+470,0,22.6707304362208,NA,"Male","III","Other","Hispanic",20,24455,TRUE
+471,1,NA,257.961398727241,"Female","IV","Caucasian","Hispanic",11.4,15695,FALSE
+472,0,NA,52.0787179470062,"Male","I","Caucasian","Asian",21.7,21170,FALSE
+473,1,NA,NA,"Male","IV","Asian","White",25.6,24820,FALSE
+474,0,NA,NA,"Male","III","Asian","Asian",19.9,17155,FALSE
+475,0,NA,NA,"Female","I","African American","Asian",30,29200,FALSE
+476,1,67.2382256016135,NA,"Female","III","African American","White",22.2,13870,TRUE
+477,0,114.214402153612,NA,"Male","II","Caucasian","Asian",34.7,16790,TRUE
+478,1,NA,NA,"Male","III","Other","Other",4.7,12410,FALSE
+479,1,NA,177.935551647547,"Female","III","Caucasian","White",32.6,13505,FALSE
+480,0,NA,NA,"Male","II","Other","Black",28.9,19345,FALSE
+481,1,162.840744844618,NA,"Male","IV","Hispanic","Black",38.7,27010,TRUE
+482,0,NA,NA,"Male","I","Hispanic","Hispanic",36.7,16790,FALSE
+483,1,181.449050357465,NA,"Male","II","Hispanic","White",4.6,11680,TRUE
+484,0,NA,NA,"Female","III","Caucasian","Hispanic",8,16060,FALSE
+485,0,NA,NA,"Male","II","Caucasian","Asian",26.2,27375,FALSE
+486,1,NA,432.016001244016,"Female","III","African American","Other",24.8,15695,FALSE
+487,1,NA,334.204822847315,"Female","II","Other","Other",39.3,28835,FALSE
+488,0,NA,NA,"Female","II","Hispanic","Asian",15.7,22630,FALSE
+489,1,59.1152168344706,NA,"Female","IV","Caucasian","Asian",38.7,25550,TRUE
+490,0,NA,NA,"Female","II","Asian","Black",19,17885,FALSE
+491,0,NA,NA,"Male","IV","Caucasian","Other",12.4,25915,FALSE
+492,1,69.6341877958178,NA,"Female","II","Asian","White",33.4,14235,TRUE
+493,1,NA,NA,"Male","III","Other","Other",23.8,20805,TRUE
+494,0,NA,NA,"Male","IV","Hispanic","Other",24.4,14600,TRUE
+495,1,NA,30.4516175761819,"Female","I","Caucasian","White",25.7,25550,FALSE
+496,0,NA,299.361556751614,"Male","I","Other","Black",38.9,14965,FALSE
+497,1,34.7087977024892,NA,"Female","I","Caucasian","Asian",20.5,20805,TRUE
+498,1,NA,NA,"Female","I","Asian","Black",14.8,17885,FALSE
+499,0,NA,86.047122720629,"Male","III","Hispanic","Asian",7.1,11680,FALSE
+500,0,NA,NA,"Male","III","Other","Asian",37.2,21900,FALSE
+501,1,NA,NA,"Female","II","African American","Other",13.4,23360,FALSE
+502,1,NA,29.6446465887129,"Female","IV","Caucasian","Asian",13,21535,FALSE
+503,1,NA,NA,"Female","I","African American","Hispanic",35.1,23360,FALSE
+504,1,NA,NA,"Male","II","Other","White",16.3,18980,TRUE
+505,1,NA,NA,"Male","I","African American","Asian",39.2,14235,FALSE
+506,1,NA,NA,"Male","I","African American","Hispanic",14.9,23360,FALSE
+507,1,NA,NA,"Female","IV","Other","Hispanic",24.6,11315,TRUE
+508,1,NA,NA,"Female","II","Caucasian","Hispanic",24.5,26645,FALSE
+509,0,NA,260.649862690809,"Female","I","Other","Black",4.3,18250,FALSE
+510,1,NA,NA,"Male","II","Hispanic","Other",27.2,16790,FALSE
+511,1,NA,NA,"Female","I","African American","Other",0,18980,TRUE
+512,1,NA,NA,"Female","I","African American","Asian",22.3,25185,TRUE
+513,0,NA,2.83541800029347,"Male","IV","African American","Hispanic",21.6,26645,FALSE
+514,1,15.4749463892675,NA,"Male","II","Caucasian","Black",29,12045,TRUE
+515,0,NA,NA,"Male","II","Hispanic","Other",13.5,15695,FALSE
+516,1,34.3519193717553,NA,"Male","II","Asian","Hispanic",8.7,15330,TRUE
+517,1,NA,141.078909889708,"Female","IV","Hispanic","Hispanic",8.2,12410,FALSE
+518,0,NA,204.883862630364,"Male","IV","Caucasian","Hispanic",16.2,18250,FALSE
+519,1,NA,NA,"Female","III","Hispanic","Other",1.8,15695,TRUE
+520,0,NA,NA,"Male","I","Hispanic","Other",29.7,17155,FALSE
+521,1,NA,NA,"Male","I","Hispanic","Hispanic",36.1,23360,FALSE
+522,1,24.0966639675826,NA,"Female","I","Asian","Hispanic",34,26645,TRUE
+523,1,NA,NA,"Female","IV","Hispanic","Asian",11.6,26645,FALSE
+524,1,113.087866451116,NA,"Female","II","African American","Other",25.3,18980,TRUE
+525,1,NA,NA,"Female","IV","Hispanic","Asian",7.1,26280,FALSE
+526,0,NA,NA,"Female","I","Caucasian","Asian",30.4,27740,FALSE
+527,0,NA,NA,"Male","II","Asian","White",33,18980,FALSE
+528,1,NA,158.420057045795,"Female","IV","Caucasian","White",32,22265,FALSE
+529,0,NA,NA,"Female","II","Other","White",30.8,21535,FALSE
+530,1,NA,NA,"Female","IV","Other","Other",29.2,29200,TRUE
+531,0,NA,82.6693770475686,"Male","IV","Other","White",25.4,19710,FALSE
+532,0,126.397981862993,NA,"Female","III","African American","Asian",16.5,29200,TRUE
+533,1,NA,NA,"Female","I","Asian","Asian",16.6,11315,FALSE
+534,0,NA,NA,"Male","I","Caucasian","Black",17.4,12410,FALSE
+535,1,NA,NA,"Female","III","Hispanic","White",16,13140,FALSE
+536,0,NA,NA,"Male","III","Other","Black",29.3,20075,TRUE
+537,1,38.1709053306185,NA,"Male","III","Caucasian","Hispanic",25.4,15330,TRUE
+538,0,NA,NA,"Female","IV","African American","Black",13,21170,TRUE
+539,1,45.5625725444406,NA,"Male","II","Hispanic","Other",13.6,15330,TRUE
+540,1,27.7850569225848,NA,"Male","II","Asian","Black",17.9,29200,TRUE
+541,0,NA,NA,"Female","II","Other","Other",11.8,14235,TRUE
+542,1,NA,NA,"Female","I","Asian","Asian",18.5,28470,TRUE
+543,0,NA,NA,"Female","IV","Caucasian","Other",37.2,15695,FALSE
+544,1,NA,NA,"Male","I","Other","Asian",2.3,26280,FALSE
+545,0,NA,NA,"Male","IV","Asian","Hispanic",5.7,18615,FALSE
+546,0,NA,NA,"Male","II","African American","Asian",25.2,24090,FALSE
+547,1,NA,NA,"Male","IV","African American","Black",6.3,13505,FALSE
+548,0,NA,NA,"Male","I","Hispanic","Asian",28.6,24455,FALSE
+549,0,NA,NA,"Female","I","Asian","Asian",5.9,19345,FALSE
+550,1,NA,59.4471409916878,"Female","I","Asian","Asian",19,14235,FALSE
+551,1,NA,NA,"Male","II","Asian","White",11.2,27375,TRUE
+552,1,NA,7.66521152108908,"Female","III","Asian","Other",38.5,14235,FALSE
+553,1,NA,NA,"Female","III","Asian","Asian",28.6,10950,FALSE
+554,0,NA,472.138485659785,"Male","III","Hispanic","White",17.2,11680,FALSE
+555,1,NA,91.561010107398,"Female","IV","Hispanic","White",15.3,23725,FALSE
+556,1,NA,NA,"Female","I","Asian","Hispanic",28.7,16060,FALSE
+557,0,NA,68.3583040721714,"Male","IV","African American","White",10,21170,FALSE
+558,1,NA,175.536283656004,"Male","I","Hispanic","Hispanic",28.1,21535,FALSE
+559,1,NA,227.084237514975,"Female","I","Asian","White",14.7,13505,FALSE
+560,1,NA,NA,"Male","IV","African American","Black",31.3,21535,FALSE
+561,1,NA,NA,"Male","IV","Caucasian","Asian",26.9,25915,FALSE
+562,0,NA,NA,"Female","II","Other","Black",26.5,20440,FALSE
+563,0,88.7642557718667,NA,"Male","III","Caucasian","Hispanic",11.6,13505,TRUE
+564,1,NA,73.5437016934156,"Female","IV","Other","Hispanic",17,28470,FALSE
+565,0,4.3651629704982,NA,"Female","III","Other","Black",34.7,28470,TRUE
+566,0,NA,153.50852310052,"Male","II","African American","White",28.5,14600,FALSE
+567,1,NA,NA,"Male","IV","Other","White",12.2,24455,FALSE
+568,0,NA,27.1604278359007,"Male","III","African American","Asian",24,21170,FALSE
+569,1,NA,NA,"Male","III","Asian","Asian",15,21170,FALSE
+570,0,NA,NA,"Female","II","Other","Hispanic",23.8,19345,FALSE
+571,1,NA,NA,"Female","I","Asian","Hispanic",25.1,10950,FALSE
+572,0,NA,NA,"Female","III","Other","Other",30.6,24455,FALSE
+573,1,NA,NA,"Male","II","African American","Hispanic",8,12410,TRUE
+574,1,NA,NA,"Female","IV","Asian","White",31.2,22995,TRUE
+575,0,NA,NA,"Female","II","Caucasian","Other",8.6,21170,FALSE
+576,0,NA,NA,"Female","I","Other","White",19.9,25915,FALSE
+577,1,157.203673329951,NA,"Female","III","Caucasian","Asian",27.2,24455,TRUE
+578,1,NA,NA,"Male","III","Caucasian","Other",13.9,24820,TRUE
+579,1,NA,234.457430980148,"Female","III","Hispanic","Other",1.6,24090,FALSE
+580,1,162.818733035567,NA,"Male","IV","Caucasian","Black",36.3,14965,TRUE
+581,0,NA,NA,"Male","II","Hispanic","Other",3.7,10950,FALSE
+582,0,NA,208.329251213911,"Female","III","Asian","Hispanic",20.8,21170,FALSE
+583,0,NA,NA,"Male","I","Hispanic","Black",33,18615,FALSE
+584,1,NA,820.062794908347,"Female","IV","Caucasian","Other",14.1,25915,FALSE
+585,0,NA,NA,"Female","I","African American","Other",21.9,23725,FALSE
+586,1,NA,NA,"Female","III","Hispanic","Asian",6.9,13870,TRUE
+587,1,NA,NA,"Male","III","Other","Black",10.6,27375,TRUE
+588,0,NA,NA,"Male","III","African American","Other",24.3,18615,FALSE
+589,0,NA,NA,"Female","II","Hispanic","Hispanic",25.3,18250,TRUE
+590,1,NA,NA,"Female","IV","Hispanic","Hispanic",26,20075,FALSE
+591,1,NA,41.0693483997624,"Male","II","Other","Other",36.6,27375,FALSE
+592,1,NA,NA,"Female","IV","Caucasian","Hispanic",5.1,12045,TRUE
+593,0,NA,NA,"Female","II","Hispanic","Asian",31.5,19710,FALSE
+594,1,NA,NA,"Male","III","Hispanic","Black",3.6,26645,FALSE
+595,1,NA,290.113973044877,"Female","IV","Hispanic","Hispanic",24.2,14235,FALSE
+596,0,NA,NA,"Female","IV","Caucasian","Other",22.9,14235,FALSE
+597,1,NA,NA,"Male","I","Asian","White",25.4,22630,FALSE
+598,1,NA,NA,"Male","II","Hispanic","Other",8.3,23360,FALSE
+599,0,NA,304.812015948777,"Male","I","Hispanic","Black",19,20805,FALSE
+600,1,NA,NA,"Female","I","Other","Asian",36.5,25185,FALSE
+601,1,NA,81.6893038339913,"Female","II","African American","Asian",6.5,18980,FALSE
+602,0,NA,198.263479947093,"Male","IV","Asian","Other",5.4,23360,FALSE
+603,1,NA,NA,"Female","III","Other","Other",30,16060,TRUE
+604,1,157.973749740961,NA,"Male","III","Other","Hispanic",2.4,18980,TRUE
+605,1,NA,NA,"Female","III","Caucasian","Other",18,20440,TRUE
+606,0,NA,NA,"Female","II","Asian","Black",18.9,27375,TRUE
+607,1,NA,NA,"Female","III","Asian","Other",3.2,28470,TRUE
+608,0,NA,32.2767771780491,"Female","II","Caucasian","Hispanic",27.2,14235,FALSE
+609,1,NA,NA,"Male","IV","Hispanic","White",11,12045,TRUE
+610,1,NA,NA,"Male","III","Other","Black",22.5,22265,FALSE
+611,0,NA,NA,"Female","III","African American","White",14,24090,FALSE
+612,1,NA,274.659712976756,"Male","III","Other","Asian",18.1,27010,FALSE
+613,1,NA,330.138018710499,"Male","I","African American","Hispanic",30.5,23360,FALSE
+614,0,7.72698266704973,NA,"Female","III","Other","White",25.9,21170,TRUE
+615,1,NA,NA,"Male","IV","African American","Black",34.8,28105,TRUE
+616,0,NA,432.401293815575,"Male","III","Hispanic","Other",8.8,26645,FALSE
+617,0,NA,NA,"Female","I","Asian","White",5.6,16790,FALSE
+618,0,NA,NA,"Male","IV","Asian","Asian",23.6,22265,FALSE
+619,0,15.5270298011601,NA,"Female","III","African American","Black",29,27010,TRUE
+620,1,NA,NA,"Female","IV","Caucasian","Hispanic",8.1,20075,FALSE
+621,0,NA,NA,"Male","III","Asian","Other",23.8,27375,FALSE
+622,0,NA,84.5666760578752,"Female","III","Hispanic","Hispanic",8.4,26645,FALSE
+623,0,51.6281008096325,NA,"Female","I","African American","Asian",9.9,17155,TRUE
+624,1,NA,NA,"Female","III","Caucasian","Black",21.7,15695,FALSE
+625,1,NA,65.4080444378663,"Female","III","Caucasian","Black",9.3,25185,FALSE
+626,1,NA,NA,"Male","III","African American","Black",26.4,21900,FALSE
+627,1,198.431790239158,NA,"Male","IV","Hispanic","Black",4.4,29200,TRUE
+628,0,NA,NA,"Male","II","Other","Asian",7.7,17520,FALSE
+629,1,NA,43.0655928328633,"Female","IV","African American","Asian",32.4,18615,FALSE
+630,1,11.2804947686493,NA,"Male","I","Caucasian","Other",2.4,27740,TRUE
+631,0,NA,NA,"Female","IV","African American","Hispanic",27.3,19345,FALSE
+632,0,NA,NA,"Female","II","Other","Asian",6.1,29200,FALSE
+633,1,NA,NA,"Female","IV","Caucasian","Other",6,22995,TRUE
+634,0,NA,106.856276975607,"Female","IV","Asian","Other",0.9,15330,FALSE
+635,1,NA,373.401583003694,"Male","IV","Asian","Asian",14.4,29200,FALSE
+636,1,250.777987883399,NA,"Male","I","Caucasian","White",22.1,11680,TRUE
+637,0,NA,NA,"Female","II","Hispanic","Asian",6,17155,TRUE
+638,0,NA,NA,"Male","II","African American","White",28.8,13870,FALSE
+639,0,NA,NA,"Female","II","Hispanic","White",21.7,18250,FALSE
+640,1,98.7026105592859,NA,"Male","III","Asian","Asian",38.6,14235,TRUE
+641,1,NA,290.940996208357,"Female","III","African American","White",37.8,18615,FALSE
+642,0,NA,696.552939298463,"Female","IV","African American","Black",7.4,28105,FALSE
+643,0,8.85783065941409,NA,"Female","I","Caucasian","Asian",19.4,16425,TRUE
+644,1,NA,447.762401831878,"Male","III","Asian","Other",12.7,10950,FALSE
+645,1,129.428784638168,NA,"Female","IV","African American","Hispanic",33.1,22630,TRUE
+646,0,NA,NA,"Male","I","African American","Black",18.3,23725,FALSE
+647,0,NA,NA,"Female","III","Hispanic","Black",38.8,23725,FALSE
+648,1,NA,NA,"Male","III","African American","Asian",23.8,22265,TRUE
+649,1,NA,NA,"Male","IV","Caucasian","White",39.6,27375,TRUE
+650,0,NA,NA,"Female","I","Other","Black",8.5,21535,FALSE
+651,0,NA,NA,"Female","IV","Asian","Hispanic",3.8,24455,FALSE
+652,0,NA,NA,"Female","I","Caucasian","Black",32.9,19710,FALSE
+653,1,NA,NA,"Female","I","Caucasian","White",11.3,25550,FALSE
+654,1,NA,NA,"Male","II","Hispanic","White",14.1,26645,TRUE
+655,0,NA,NA,"Female","I","African American","Black",26.6,28835,TRUE
+656,0,NA,NA,"Male","I","African American","Asian",33.5,14600,TRUE
+657,0,NA,NA,"Male","III","African American","Black",27.8,23725,FALSE
+658,1,NA,NA,"Male","III","Caucasian","White",2.1,25915,FALSE
+659,1,NA,NA,"Female","III","Caucasian","White",19.7,24820,FALSE
+660,1,NA,NA,"Male","III","Hispanic","Black",17.4,16060,TRUE
+661,0,NA,NA,"Female","IV","Hispanic","Other",36.2,19345,FALSE
+662,0,NA,NA,"Female","IV","African American","Other",25.4,22265,FALSE
+663,1,NA,NA,"Female","IV","African American","Hispanic",10.8,14600,TRUE
+664,0,NA,NA,"Male","IV","Caucasian","Other",12.5,20805,FALSE
+665,1,NA,NA,"Male","II","African American","Other",18.6,23725,TRUE
+666,1,NA,NA,"Male","I","Other","Other",12.6,20440,FALSE
+667,0,NA,NA,"Female","II","Hispanic","Other",29.4,22630,FALSE
+668,1,NA,NA,"Female","I","Caucasian","Other",10.5,20440,FALSE
+669,0,NA,165.978696914199,"Male","I","Hispanic","Asian",32.5,15695,FALSE
+670,1,NA,NA,"Female","II","Hispanic","Hispanic",21.6,29200,TRUE
+671,1,NA,641.165399517784,"Female","III","African American","White",38.5,13505,FALSE
+672,1,42.2971890307963,NA,"Male","III","African American","Other",35.9,24820,TRUE
+673,1,NA,26.7435795627534,"Female","III","Asian","Hispanic",18.9,25185,FALSE
+674,1,18.7109688269795,NA,"Female","I","Hispanic","Black",6.1,20440,TRUE
+675,1,NA,NA,"Female","I","Other","Asian",10,28105,FALSE
+676,1,30.1839744014474,NA,"Female","III","Other","Black",18.4,29200,TRUE
+677,0,NA,84.4199646264315,"Male","IV","Asian","Hispanic",23.4,14600,FALSE
+678,1,NA,3.49941207095981,"Female","I","Caucasian","Black",12.6,27010,FALSE
+679,1,NA,262.587067662718,"Male","IV","Other","White",8.6,27010,FALSE
+680,1,NA,263.67408740534,"Female","III","Other","Hispanic",36.8,15695,FALSE
+681,0,NA,NA,"Male","I","Caucasian","Black",33.5,19710,TRUE
+682,0,NA,16.2390045821667,"Male","III","Hispanic","Asian",38.9,11315,FALSE
+683,0,3.08197680860758,NA,"Male","III","African American","Hispanic",5.5,28105,TRUE
+684,0,NA,NA,"Male","III","Asian","White",27.7,11680,FALSE
+685,0,NA,NA,"Male","II","African American","Black",39.5,19345,FALSE
+686,1,NA,NA,"Male","IV","Caucasian","Hispanic",21.1,28105,TRUE
+687,1,NA,NA,"Male","III","Other","Hispanic",32.6,12045,FALSE
+688,1,NA,NA,"Male","I","Other","Other",36.6,24090,FALSE
+689,1,266.778904000733,NA,"Male","IV","African American","Hispanic",13.8,16060,TRUE
+690,1,81.3739485065353,NA,"Male","IV","Asian","Asian",12.9,21900,TRUE
+691,1,124.294798910142,NA,"Male","II","Asian","Asian",7.7,21900,TRUE
+692,0,26.8317572772503,NA,"Female","III","Asian","Hispanic",19.1,23725,TRUE
+693,1,NA,NA,"Male","I","African American","White",32.7,26645,TRUE
+694,1,NA,NA,"Female","II","Asian","Hispanic",34.1,10950,TRUE
+695,1,NA,206.002124018016,"Female","III","Hispanic","Other",36.4,18250,FALSE
+696,1,116.939614708991,NA,"Female","II","Asian","White",21.7,16790,TRUE
+697,1,NA,NA,"Male","II","African American","Hispanic",0.5,19345,FALSE
+698,1,NA,NA,"Female","I","African American","Other",12.7,22630,FALSE
+699,1,NA,129.010209813714,"Female","IV","Other","Asian",38.9,24090,FALSE
+700,1,NA,NA,"Male","II","Caucasian","Hispanic",22.9,16790,FALSE
+701,0,NA,NA,"Male","I","Other","Black",11.9,25550,FALSE
+702,1,NA,33.781630147343,"Female","II","Other","Black",13.1,20805,FALSE
+703,1,NA,NA,"Female","I","Hispanic","Asian",5.5,10950,TRUE
+704,0,NA,66.2371099926531,"Male","IV","Caucasian","Black",38.8,18250,FALSE
+705,1,NA,182.786953813376,"Female","I","Asian","Asian",21.6,13870,FALSE
+706,0,NA,NA,"Male","II","Hispanic","Asian",14,17520,FALSE
+707,1,NA,NA,"Male","II","Hispanic","Hispanic",13.9,17885,FALSE
+708,1,NA,NA,"Male","III","Other","Asian",33.1,14600,TRUE
+709,1,NA,NA,"Male","III","Hispanic","Asian",36.1,27375,FALSE
+710,1,NA,NA,"Female","I","Hispanic","Other",20,17885,FALSE
+711,0,NA,NA,"Male","II","Hispanic","Black",29.8,12045,TRUE
+712,1,71.2681530522427,NA,"Female","I","Other","Black",36.3,21900,TRUE
+713,0,NA,NA,"Male","IV","Asian","Hispanic",9.9,26280,FALSE
+714,0,49.2830818053335,NA,"Male","IV","Other","Other",33,25915,TRUE
+715,1,NA,189.457165542796,"Male","II","Hispanic","Other",30.7,26645,FALSE
+716,1,NA,NA,"Male","II","Caucasian","White",10.3,29200,FALSE
+717,1,NA,131.02588839829,"Female","IV","Other","Other",15.9,29200,FALSE
+718,1,NA,NA,"Male","II","Asian","Asian",24.4,15330,FALSE
+719,0,NA,NA,"Female","IV","Asian","White",19.3,27010,FALSE
+720,1,54.1398710795377,NA,"Female","I","Other","Other",17.7,15330,TRUE
+721,1,NA,NA,"Male","III","Asian","Asian",21.9,13870,FALSE
+722,0,NA,NA,"Female","IV","Caucasian","Asian",27.7,17885,FALSE
+723,0,NA,NA,"Female","I","Hispanic","White",18.7,23360,FALSE
+724,0,NA,NA,"Female","I","Caucasian","Black",19.3,14235,TRUE
+725,0,NA,NA,"Female","III","Asian","Hispanic",5.7,11680,FALSE
+726,0,NA,10.6162157008586,"Male","II","Asian","Hispanic",27.2,17885,FALSE
+727,0,NA,15.2041445054856,"Female","II","African American","White",38.2,26280,FALSE
+728,0,NA,NA,"Female","I","Hispanic","Asian",18.1,21900,FALSE
+729,0,178.221548899057,NA,"Male","IV","Caucasian","White",9.6,17155,TRUE
+730,1,NA,NA,"Male","I","Asian","Hispanic",33.2,22630,FALSE
+731,1,NA,NA,"Female","IV","Hispanic","Hispanic",7.5,16060,TRUE
+732,0,41.4631883613765,NA,"Male","IV","Caucasian","Asian",24.9,18250,TRUE
+733,0,NA,133.930350746959,"Male","IV","Caucasian","Asian",3.2,18615,FALSE
+734,0,82.4378817300213,NA,"Male","IV","Asian","Hispanic",3.8,28105,TRUE
+735,1,NA,NA,"Male","I","Other","Hispanic",27.1,12775,FALSE
+736,1,NA,NA,"Female","I","Hispanic","Black",19.7,27375,FALSE
+737,0,NA,NA,"Male","I","Asian","Asian",7.3,24090,FALSE
+738,0,215.097370712701,NA,"Female","II","Other","White",14.7,21900,TRUE
+739,1,NA,NA,"Male","II","Caucasian","White",12.9,28835,FALSE
+740,1,NA,NA,"Female","IV","African American","Other",34.7,16060,FALSE
+741,0,12.8084874246269,NA,"Female","IV","African American","Black",22.1,25185,TRUE
+742,1,NA,NA,"Male","II","Caucasian","Other",5,21900,FALSE
+743,1,75.7183305877161,NA,"Female","II","Asian","Black",14.1,15695,TRUE
+744,1,NA,NA,"Male","I","Asian","Other",0.8,27010,TRUE
+745,1,NA,NA,"Female","IV","Caucasian","Black",16.4,16425,FALSE
+746,1,341.596841050272,NA,"Male","I","Other","Black",27.2,19710,TRUE
+747,0,NA,NA,"Female","IV","African American","Hispanic",22.1,13140,TRUE
+748,1,12.7788831322012,NA,"Female","IV","Caucasian","Black",33.1,14600,TRUE
+749,0,32.7179009063978,NA,"Male","II","Other","Hispanic",31,25185,TRUE
+750,0,99.3313918779505,NA,"Female","IV","African American","Other",27,27010,TRUE
+751,1,86.3290067091293,NA,"Female","III","Hispanic","Asian",39,17885,TRUE
+752,1,NA,NA,"Female","III","Caucasian","Hispanic",36.5,16060,FALSE
+753,1,NA,NA,"Male","III","Asian","White",6.5,17885,TRUE
+754,1,NA,NA,"Male","IV","Hispanic","Other",32.7,11315,FALSE
+755,1,56.2063951976597,NA,"Male","IV","African American","Other",34.4,26645,TRUE
+756,1,NA,NA,"Male","III","Other","Asian",7,25550,TRUE
+757,1,NA,NA,"Female","I","Asian","Asian",31.9,14235,FALSE
+758,0,NA,18.8938303211704,"Female","I","Other","Black",33,23360,FALSE
+759,1,NA,NA,"Female","I","African American","Black",0.1,20805,FALSE
+760,1,NA,NA,"Male","IV","Hispanic","White",11.1,22995,FALSE
+761,1,NA,NA,"Female","II","African American","Black",19.1,13870,TRUE
+762,1,NA,NA,"Male","I","Other","Other",34.6,12410,FALSE
+763,1,NA,NA,"Male","I","Other","Hispanic",28.2,25915,FALSE
+764,1,NA,NA,"Male","II","Hispanic","Hispanic",33.6,19345,FALSE
+765,1,NA,12.2185965999961,"Female","III","Caucasian","Asian",38.1,11680,FALSE
+766,1,10.6160858820373,NA,"Female","IV","Caucasian","Asian",19.2,23725,TRUE
+767,1,NA,NA,"Female","I","Asian","Black",3.2,25185,FALSE
+768,1,NA,NA,"Male","I","Asian","Black",34.3,17155,FALSE
+769,0,NA,NA,"Female","IV","Other","White",16.7,17520,FALSE
+770,0,NA,NA,"Male","II","Asian","Black",15.8,27740,FALSE
+771,0,NA,180.837134382625,"Female","IV","Hispanic","Black",0.7,12775,FALSE
+772,0,NA,37.4590033665299,"Female","II","Caucasian","Black",33.8,28835,FALSE
+773,0,174.845488174799,NA,"Female","II","African American","Asian",27.5,27740,TRUE
+774,0,NA,NA,"Male","I","Asian","White",0.4,10950,FALSE
+775,1,NA,NA,"Female","IV","Asian","Asian",35.5,25915,FALSE
+776,1,NA,1.14854545764844,"Female","IV","Hispanic","Other",5.9,23360,FALSE
+777,1,NA,NA,"Female","II","Caucasian","White",21.6,17520,FALSE
+778,1,NA,NA,"Female","II","Caucasian","Black",22.3,21900,TRUE
+779,0,NA,NA,"Female","II","Caucasian","White",30.4,21170,FALSE
+780,0,NA,NA,"Female","II","Other","Black",12.2,24455,FALSE
+781,1,NA,168.613241418245,"Female","IV","Asian","White",7.1,27740,FALSE
+782,0,NA,NA,"Female","I","Hispanic","White",0.2,25185,TRUE
+783,1,190.802366836908,NA,"Female","II","Caucasian","White",34.5,13140,TRUE
+784,0,NA,NA,"Male","IV","Hispanic","Other",8.1,13505,FALSE
+785,0,NA,97.2419759258628,"Female","I","Caucasian","Hispanic",19.3,23360,FALSE
+786,1,22.5660786642629,NA,"Male","IV","Other","White",37.9,16425,TRUE
+787,1,NA,251.042030929568,"Female","IV","Other","Black",23.1,27740,FALSE
+788,1,NA,NA,"Female","II","Asian","White",4.5,16790,FALSE
+789,1,NA,NA,"Male","II","Caucasian","Other",21.1,21170,TRUE
+790,0,NA,NA,"Female","IV","Hispanic","White",22.7,25550,FALSE
+791,0,63.6584338266402,NA,"Female","IV","Asian","Other",27.2,24820,TRUE
+792,1,NA,NA,"Male","II","Asian","Black",12.4,25185,TRUE
+793,1,17.3719082958996,NA,"Male","II","Asian","Other",27.3,18615,TRUE
+794,1,NA,NA,"Female","II","Hispanic","Black",20.3,14235,FALSE
+795,0,5.65762957558036,NA,"Male","II","Asian","Other",31.9,20805,TRUE
+796,1,NA,39.1442124731839,"Female","IV","Hispanic","Other",17.2,27375,FALSE
+797,1,NA,NA,"Female","II","Other","White",31.7,24820,FALSE
+798,1,NA,437.887307603784,"Female","II","African American","Hispanic",17.8,21535,FALSE
+799,1,NA,NA,"Female","II","Caucasian","Asian",37.6,18615,TRUE
+800,1,NA,NA,"Male","I","African American","Hispanic",18,15330,FALSE
+801,1,NA,NA,"Female","IV","Other","Other",30.7,17520,FALSE
+802,1,NA,NA,"Female","I","Caucasian","Other",0.6,27375,TRUE
+803,1,NA,NA,"Female","III","Asian","White",19.6,20440,FALSE
+804,1,NA,33.0876358784735,"Female","IV","Asian","Other",20,24820,FALSE
+805,1,NA,NA,"Male","III","African American","Other",1.1,21170,FALSE
+806,0,NA,183.086457095089,"Female","III","Asian","Hispanic",22,20440,FALSE
+807,1,225.0778587409,NA,"Female","II","Caucasian","Other",21.7,18615,TRUE
+808,1,265.941548521135,NA,"Male","III","Caucasian","Black",26.4,15330,TRUE
+809,0,NA,NA,"Male","I","African American","Asian",2.6,21535,FALSE
+810,0,NA,32.2237211279571,"Female","III","Asian","Asian",36.6,10950,FALSE
+811,1,NA,NA,"Female","I","Hispanic","Other",34.3,27375,FALSE
+812,0,NA,400.453183410649,"Male","II","Caucasian","Black",20.6,13870,FALSE
+813,1,225.331859091733,NA,"Female","I","Asian","Hispanic",5.7,20075,TRUE
+814,0,NA,NA,"Male","IV","Caucasian","Hispanic",24.3,19345,FALSE
+815,0,NA,NA,"Female","II","Caucasian","White",12.3,20805,FALSE
+816,1,NA,NA,"Female","III","Hispanic","Asian",3.1,11680,TRUE
+817,1,64.7332752589136,NA,"Female","I","Hispanic","White",33.2,24455,TRUE
+818,1,NA,NA,"Female","I","Caucasian","Other",21.6,18615,TRUE
+819,1,NA,NA,"Female","III","Asian","Asian",6.8,29200,TRUE
+820,1,NA,NA,"Female","II","Asian","Other",2.4,13870,FALSE
+821,0,NA,NA,"Female","II","African American","Hispanic",28.6,14235,TRUE
+822,1,42.7475209347904,NA,"Female","II","African American","Other",39.1,16790,TRUE
+823,0,NA,NA,"Female","II","Other","Asian",4.3,20440,FALSE
+824,0,NA,7.33695700764656,"Female","IV","Asian","Hispanic",14.4,12775,FALSE
+825,0,NA,590.864688124428,"Male","IV","Caucasian","Other",3.2,14965,FALSE
+826,1,NA,NA,"Male","II","Hispanic","Other",25.5,17155,FALSE
+827,1,NA,NA,"Male","III","Caucasian","Asian",30.2,11680,FALSE
+828,1,14.2871901858598,NA,"Female","I","Other","Asian",26.8,18250,TRUE
+829,1,NA,NA,"Male","I","African American","Other",27.9,12045,FALSE
+830,0,NA,NA,"Female","IV","Caucasian","Hispanic",3.8,20440,TRUE
+831,1,NA,NA,"Female","I","Caucasian","Asian",21.4,23360,FALSE
+832,0,NA,178.954520999434,"Male","II","African American","Hispanic",27.2,22995,FALSE
+833,1,NA,NA,"Male","III","African American","Hispanic",7.6,28105,TRUE
+834,0,12.4436206184328,NA,"Female","II","Other","Hispanic",5.7,15695,TRUE
+835,0,58.8720388710499,NA,"Female","I","Hispanic","Hispanic",25.4,27010,TRUE
+836,1,193.75053103173,NA,"Female","I","Hispanic","Other",27.1,28835,TRUE
+837,0,NA,NA,"Male","II","Caucasian","Black",34.8,22265,FALSE
+838,0,NA,NA,"Male","I","Asian","White",10.7,21535,TRUE
+839,1,445.369692494102,NA,"Female","III","Other","Black",17.5,12775,TRUE
+840,1,NA,NA,"Female","IV","Asian","White",9.9,16060,FALSE
+841,0,NA,68.6553643568912,"Female","II","Asian","Black",31.3,23725,FALSE
+842,0,NA,NA,"Female","III","Other","White",26.4,11315,TRUE
+843,0,NA,NA,"Female","II","African American","Black",32.1,12045,FALSE
+844,1,NA,NA,"Female","III","Asian","Hispanic",25.7,28105,FALSE
+845,1,42.2619254030579,NA,"Male","III","Hispanic","Asian",19.6,26280,TRUE
+846,1,NA,NA,"Male","II","Asian","Black",16.1,20805,FALSE
+847,0,94.2781630861473,NA,"Female","II","African American","Black",23.5,10950,TRUE
+848,1,NA,NA,"Male","III","Caucasian","Black",9.2,14235,TRUE
+849,1,NA,37.4058757908642,"Male","I","Asian","Other",13.5,16060,FALSE
+850,1,NA,115.228977168893,"Male","IV","Other","White",23.1,23360,FALSE
+851,1,470.644234468169,NA,"Female","II","African American","Asian",10.1,29200,TRUE
+852,0,6.98087849276565,NA,"Female","II","Caucasian","Black",19.2,10950,TRUE
+853,0,92.8279379113419,NA,"Female","IV","African American","White",15.5,15330,TRUE
+854,0,NA,117.163935769349,"Male","IV","African American","Black",33.3,14600,FALSE
+855,1,NA,NA,"Male","I","African American","Other",0.7,23360,FALSE
+856,1,NA,NA,"Female","II","Asian","White",10.5,21900,FALSE
+857,0,122.122316523911,NA,"Male","II","Caucasian","Other",23.5,24455,TRUE
+858,1,NA,NA,"Male","IV","African American","Other",18,17520,FALSE
+859,1,NA,NA,"Male","III","African American","Hispanic",35.5,13505,FALSE
+860,0,NA,1389.00074192306,"Male","IV","African American","Hispanic",39.5,15330,FALSE
+861,1,NA,NA,"Female","III","African American","Asian",28.1,29200,TRUE
+862,1,125.594260911913,NA,"Male","IV","Hispanic","Black",4,14965,TRUE
+863,0,NA,NA,"Female","II","Asian","White",37.1,13870,FALSE
+864,1,6.40412615612149,NA,"Female","II","Hispanic","Black",25,27010,TRUE
+865,0,NA,NA,"Female","I","Hispanic","Asian",19.8,19345,FALSE
+866,1,NA,NA,"Female","II","Hispanic","Hispanic",26.4,22630,FALSE
+867,1,139.683795723079,NA,"Male","III","Hispanic","Black",1,22265,TRUE
+868,1,NA,297.688790268595,"Female","III","Other","White",13.1,25550,FALSE
+869,1,74.0656051742745,NA,"Male","II","Hispanic","Hispanic",12.2,19345,TRUE
+870,1,NA,NA,"Male","I","Other","Hispanic",9.6,27740,FALSE
+871,1,NA,NA,"Female","III","Asian","Black",11.4,14235,TRUE
+872,1,NA,NA,"Female","III","Caucasian","Hispanic",2.9,18250,FALSE
+873,0,NA,NA,"Male","II","Other","Asian",33.4,24090,TRUE
+874,1,54.7225840389729,NA,"Male","I","Other","Black",3.1,24090,TRUE
+875,0,NA,NA,"Female","I","Asian","Hispanic",29.3,12775,TRUE
+876,0,70.9256393792939,NA,"Male","I","Other","Black",15.8,11680,TRUE
+877,1,28.29111199826,NA,"Female","IV","African American","Other",38.2,17520,TRUE
+878,0,82.9670278989266,NA,"Female","IV","Hispanic","Other",35.8,20075,TRUE
+879,0,NA,368.606824783568,"Male","I","Other","Hispanic",15.4,24455,FALSE
+880,0,286.085247976666,NA,"Male","IV","Other","Asian",20.9,26280,TRUE
+881,1,266.661855379555,NA,"Female","II","African American","Hispanic",31.8,21900,TRUE
+882,0,NA,300.649570999469,"Female","I","African American","Black",37.6,24455,FALSE
+883,0,NA,NA,"Female","II","Caucasian","White",14.7,18980,FALSE
+884,1,NA,27.87652797997,"Female","IV","Other","Asian",10.9,17520,FALSE
+885,0,17.6645568571985,NA,"Female","II","Caucasian","Black",11.4,14965,TRUE
+886,0,NA,194.344215831699,"Male","II","Asian","Other",28.7,19345,FALSE
+887,1,NA,NA,"Female","I","African American","Hispanic",26.4,21535,FALSE
+888,1,NA,NA,"Female","III","Asian","Other",22,15695,TRUE
+889,1,160.116552723274,NA,"Male","IV","Other","White",8.1,17155,TRUE
+890,1,71.1178176994336,NA,"Male","III","Asian","Other",25.7,25185,TRUE
+891,1,NA,NA,"Female","I","Asian","Other",34.3,28470,FALSE
+892,0,NA,NA,"Female","III","Asian","Hispanic",23.3,25185,TRUE
+893,0,NA,60.3701866231859,"Male","I","African American","Asian",25.6,13505,FALSE
+894,1,NA,0.759038142859936,"Female","III","Hispanic","Other",31.3,22630,FALSE
+895,0,48.4810436610132,NA,"Female","III","Asian","Other",17.7,24455,TRUE
+896,0,NA,NA,"Male","III","Asian","Hispanic",19.9,25550,TRUE
+897,1,NA,NA,"Female","I","Hispanic","Other",9.3,21170,FALSE
+898,1,NA,NA,"Female","III","African American","Asian",33.3,24090,FALSE
+899,1,NA,NA,"Female","IV","Asian","Hispanic",6.3,24455,TRUE
+900,0,152.04238834882,NA,"Male","I","Asian","Asian",27.5,24820,TRUE
+901,0,NA,259.772431655767,"Male","I","African American","Hispanic",0.3,22995,FALSE
+902,1,NA,NA,"Male","II","Caucasian","White",19.8,12410,FALSE
+903,0,NA,208.336462817135,"Female","I","Other","Black",28.7,13870,FALSE
+904,1,NA,49.5360285975039,"Female","II","Hispanic","White",18.2,14965,FALSE
+905,0,NA,31.0254478827119,"Female","III","African American","Asian",14.6,28105,FALSE
+906,1,NA,NA,"Male","III","Asian","Black",4,19345,FALSE
+907,0,146.261607660892,NA,"Female","II","Hispanic","Black",10.9,15695,TRUE
+908,0,NA,301.693631865913,"Male","I","Other","Hispanic",10.3,12775,FALSE
+909,0,106.016644973511,NA,"Male","III","Asian","Asian",33.6,22995,TRUE
+910,1,NA,NA,"Male","III","Caucasian","Hispanic",15.8,25185,FALSE
+911,1,NA,NA,"Male","I","Asian","Black",39.6,18980,FALSE
+912,1,NA,NA,"Male","II","Hispanic","Hispanic",33,15330,FALSE
+913,0,NA,NA,"Male","I","Hispanic","White",19.5,13870,FALSE
+914,1,NA,NA,"Female","IV","Caucasian","Hispanic",31.4,13870,FALSE
+915,1,NA,589.161911573181,"Female","IV","Other","White",23.1,21900,FALSE
+916,0,NA,19.3524536676705,"Female","IV","Hispanic","Black",8.4,12410,FALSE
+917,1,NA,NA,"Male","III","Asian","White",32.2,21900,FALSE
+918,1,NA,NA,"Female","II","Other","Asian",12.7,20440,FALSE
+919,1,NA,NA,"Female","I","Caucasian","Asian",37.9,24090,FALSE
+920,1,0.08962731808424,NA,"Female","I","African American","White",38.4,28105,TRUE
+921,0,NA,NA,"Male","II","Asian","Asian",23.7,28105,FALSE
+922,1,NA,NA,"Male","III","Asian","Black",3.2,12410,FALSE
+923,1,NA,NA,"Female","II","Other","Hispanic",18.9,16790,FALSE
+924,0,NA,NA,"Female","III","Caucasian","Black",22.8,13140,FALSE
+925,0,NA,238.066944099011,"Female","IV","Other","Asian",21.5,15330,FALSE
+926,0,NA,NA,"Female","IV","Hispanic","White",24.4,19345,FALSE
+927,1,NA,NA,"Male","I","Asian","Asian",22.9,14235,FALSE
+928,1,27.0177588071906,NA,"Male","II","Other","White",12.3,22265,TRUE
+929,1,NA,NA,"Female","I","Other","White",25.6,28105,FALSE
+930,0,NA,NA,"Male","II","African American","Black",3.4,18615,FALSE
+931,0,3.89921576716006,NA,"Male","II","Caucasian","Asian",9.6,20440,TRUE
+932,1,NA,NA,"Female","II","African American","Asian",13.9,24090,TRUE
+933,0,NA,NA,"Female","III","Hispanic","Black",16,28105,FALSE
+934,1,NA,NA,"Female","IV","Asian","White",39.9,24090,TRUE
+935,0,82.6473087856042,NA,"Female","II","Other","Other",1.7,14600,TRUE
+936,1,160.399782709598,NA,"Female","I","African American","Black",18.3,12045,TRUE
+937,1,NA,NA,"Male","I","Hispanic","Other",16.6,19710,FALSE
+938,0,NA,NA,"Male","III","Hispanic","Hispanic",16.5,25550,FALSE
+939,0,448.254488755889,NA,"Male","III","Asian","White",12.2,25550,TRUE
+940,1,92.9665078367007,NA,"Male","III","Hispanic","Hispanic",22.8,17885,TRUE
+941,0,NA,NA,"Male","I","Hispanic","White",31.7,25185,TRUE
+942,1,NA,807.855031969857,"Male","II","Other","Black",4.8,20440,FALSE
+943,1,96.7214407451357,NA,"Female","II","Caucasian","Other",19.2,16790,TRUE
+944,1,NA,132.081311009824,"Female","II","Hispanic","Black",30.9,22630,FALSE
+945,1,NA,93.7177221290767,"Female","IV","Other","Other",6.9,13870,FALSE
+946,1,231.975106696103,NA,"Male","I","Caucasian","White",30.6,20440,TRUE
+947,1,NA,90.030481107533,"Male","IV","Other","Other",11.9,17885,FALSE
+948,1,NA,NA,"Male","III","African American","White",14.6,15695,TRUE
+949,1,NA,NA,"Male","II","Other","Asian",14.7,28470,FALSE
+950,1,NA,NA,"Male","I","Asian","Asian",20.9,26280,FALSE
+951,1,NA,NA,"Male","IV","Asian","Black",5.6,21170,TRUE
+952,1,NA,NA,"Female","III","Hispanic","White",12.3,17155,FALSE
+953,0,NA,NA,"Female","II","Asian","White",33.6,12775,FALSE
+954,1,NA,NA,"Female","III","Other","Asian",30.2,15695,FALSE
+955,1,9.19766244478524,NA,"Male","IV","Hispanic","Hispanic",23.8,23360,TRUE
+956,0,59.3455869704485,NA,"Female","IV","Caucasian","Black",1.9,13505,TRUE
+957,0,NA,907.526782849684,"Female","III","Other","Hispanic",26.9,27740,FALSE
+958,1,274.275355214689,NA,"Female","IV","Hispanic","Black",16.5,22265,TRUE
+959,1,NA,3.74726625159383,"Female","I","African American","Hispanic",2.3,23360,FALSE
+960,1,68.4220867231488,NA,"Female","IV","Hispanic","Asian",29.3,13140,TRUE
+961,1,NA,NA,"Male","III","Caucasian","Other",4.4,29200,FALSE
+962,1,88.0882940213096,NA,"Female","II","African American","Hispanic",38.2,22630,TRUE
+963,0,NA,NA,"Female","I","Asian","Black",11.7,27375,FALSE
+964,1,NA,NA,"Male","IV","Other","Asian",7.3,20075,FALSE
+965,0,NA,121.196071244776,"Female","IV","African American","Hispanic",35.8,27010,FALSE
+966,1,NA,NA,"Female","I","African American","Asian",5.3,21535,FALSE
+967,1,NA,52.2554461844265,"Female","III","Asian","Asian",14.2,28835,FALSE
+968,1,NA,NA,"Male","II","Hispanic","Black",18.3,22265,FALSE
+969,0,NA,324.320126876578,"Male","IV","Hispanic","Asian",35,12775,FALSE
+970,1,NA,NA,"Male","III","Asian","Hispanic",19.1,12775,FALSE
+971,0,NA,175.955377883258,"Female","I","African American","Other",27.6,12775,FALSE
+972,1,NA,252.22341287041,"Female","II","Asian","Asian",31,21900,FALSE
+973,0,NA,NA,"Female","II","African American","Other",17.2,12775,FALSE
+974,1,NA,NA,"Female","II","Asian","Hispanic",18.2,18615,TRUE
+975,1,79.9133965639105,NA,"Male","II","Hispanic","Other",9.6,24090,TRUE
+976,0,NA,NA,"Male","III","Caucasian","Hispanic",11.3,21535,FALSE
+977,0,NA,75.5416759709781,"Male","II","Other","Black",36.5,22995,FALSE
+978,1,NA,139.581864505055,"Male","II","Caucasian","Hispanic",38.8,14600,FALSE
+979,1,NA,249.64319243187,"Female","IV","Hispanic","Hispanic",29,22630,FALSE
+980,1,NA,NA,"Male","IV","Other","Asian",14.8,25185,FALSE
+981,1,NA,NA,"Male","IV","Caucasian","Black",19.6,16790,FALSE
+982,0,NA,NA,"Female","II","Hispanic","White",32.4,16060,FALSE
+983,0,42.6388436670594,NA,"Female","IV","African American","White",22.4,26645,TRUE
+984,0,NA,NA,"Female","I","Asian","White",30.9,13505,FALSE
+985,0,394.232626797116,NA,"Male","II","Caucasian","Other",10.7,16425,TRUE
+986,0,NA,NA,"Male","I","Asian","Asian",13.2,15695,TRUE
+987,1,NA,NA,"Male","IV","African American","Asian",38.8,13505,FALSE
+988,1,NA,594.867744422888,"Male","IV","Other","White",38.1,17520,FALSE
+989,1,NA,NA,"Male","III","Asian","White",28.9,20075,FALSE
+990,1,NA,44.6566483005881,"Male","I","Other","Other",5,18980,FALSE
+991,1,NA,NA,"Female","IV","African American","Hispanic",32.7,28105,FALSE
+992,1,NA,46.8145920493,"Female","I","African American","Black",7,24090,FALSE
+993,1,41.8417318724096,NA,"Female","II","Hispanic","Asian",6.4,27740,TRUE
+994,1,311.89234627593,NA,"Male","II","Asian","White",35.1,24820,TRUE
+995,1,31.4342061523348,NA,"Male","II","Hispanic","Hispanic",2.4,22995,TRUE
+996,0,NA,241.911015092375,"Female","II","Other","White",2.4,14235,FALSE
+997,0,NA,NA,"Female","II","Caucasian","Other",39,10950,TRUE
+998,1,NA,NA,"Female","IV","Caucasian","Asian",29.5,19345,FALSE
+999,0,NA,NA,"Male","III","Caucasian","Hispanic",21.1,27740,FALSE
+1000,1,NA,NA,"Female","IV","Asian","White",23.1,16425,TRUE

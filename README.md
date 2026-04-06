@@ -16,13 +16,11 @@ This repository contains a collection of projects developed across coursework an
 
 
 
-Across these projects, I have worked extensively with structured and unstructured data, building systems that read, filter, and transform data into usable outputs. My work emphasizes clean logic, efficient data handling, and practical problem solving.
+Across these projects, I have worked with structured and unstructured data, building programs that read, filter, and transform data into usable outputs. My work emphasizes clear logic, organized code, and practical problem solving.
 
 
 
-
-
-The projects range from C++ data-driven applications to front-end web development, reflecting both backend and user-facing experience.
+The projects range from C++ data-driven applications to front-end web development and data visualization using R.
 
 
 
@@ -32,21 +30,17 @@ The projects range from C++ data-driven applications to front-end web developmen
 
 \- Data parsing and extraction from JSON, CSV, and text files  
 
-\- Data filtering, transformation, and utilization  
+\- Data filtering and selection based on conditions  
 
-\- Working with large datasets using maps, sets, and vectors  
+\- Data visualization using R  
+
+\- Working with datasets using maps, sets, and vectors  
 
 \- Algorithm design and debugging  
 
 \- Recursive problem solving and data traversal  
 
 \- File input/output and structured data processing  
-
-
-
-
-
-
 
 
 
@@ -60,35 +54,19 @@ C++, Python, Java, JavaScript, HTML, R
 
 
 
-
-
-
-
 \*\*Tools \& Platforms:\*\*  
 
 GitHub, Microsoft Azure, Ubuntu  
 
 
 
-
-
-
-
 \*\*Technologies \& Concepts:\*\*  
 
-STL (maps, sets, vectors), JSON parsing, CSV processing, front-end development, version control, web deployment  
-
-
-
-
-
-
+STL (maps, sets, vectors), JSON parsing, CSV processing, data visualization, front-end development, version control, web deployment  
 
 
 
 \## Project Highlights
-
-
 
 
 
@@ -102,7 +80,7 @@ A collection of projects focused on implementing data structures and applying th
 
 \- Matching algorithms (ride share, dating apps)  
 
-\- Data-driven analysis tools  
+\- Data-driven processing tools  
 
 
 
@@ -110,9 +88,19 @@ These projects emphasize efficient data organization, filtering, and retrieval.
 
 
 
+\### Biology Data Visualization Projects (R)
+
+Projects focused on working with biological datasets stored in CSV files.
 
 
 
+\- Filtered datasets to isolate relevant data for analysis  
+
+\- Selected specific variables and conditions to generate graphs  
+
+\- Created visualizations to represent trends and patterns in the data  
+
+\- Focused on organizing and preparing data for accurate output  
 
 
 
@@ -144,13 +132,17 @@ Across all projects, I focused on:
 
 \- Writing clear and maintainable code  
 
-\- Breaking down complex problems into structured solutions  
+\- Breaking down problems into structured steps  
 
-\- Building systems that rely on accurate data processing  
+\- Filtering and organizing data before processing  
 
-\- Iterating on logic to improve performance and correctness  
+\- Debugging and refining logic for correctness  
 
 \- Managing projects using GitHub workflows and version control  
+
+
+
+
 
 
 
@@ -159,8 +151,6 @@ Across all projects, I focused on:
 
 
 Some projects are course-based and were completed using provided specifications, but all implementations and logic are my own.
-
-
 
 
 
